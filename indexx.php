@@ -1,1509 +1,1804 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home | Materia Medica Batu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Tangere</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Tangere &raquo; Feed" href="https://tangereapp.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tangere &raquo; Comments Feed" href="https://tangereapp.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tangereapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftangereapp.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tangereapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftangereapp.com%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
 
-    <meta name="description"
-        content="Website Profile UPT Materia Medica Batu Dinas Kesehatan Pemerintah Provinsi Jawa Timur">
+    img.wp-smiley, img.emoji {
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        height: 1em !important;
+        width: 1em !important;
+        margin: 0 0.07em !important;
+        vertical-align: -0.1em !important;
+        background: none !important;
+        padding: 0 !important;
+    }
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://tangereapp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6' media='all' />
+<link rel='stylesheet' id='htslider-widgets-css' href='https://tangereapp.com/wp-content/plugins/ht-slider-for-elementor/assets/css/ht-slider-widgets.css?ver=1.7.7' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.1' media='all' />
+<style id="elementor-frontend-inline-css">
+.elementor-kit-5{--e-global-color-primary:#FFFFFF;--e-global-color-secondary:#035E93;--e-global-color-text:#343434;--e-global-color-accent:#D83C40;--e-global-color-94bf868:#FFFFFF00;--e-global-color-f1ad742:#F5BF52;--e-global-color-ac8b74f:#F1F1F1;--e-global-color-64cc13b:#D83C40;--e-global-typography-primary-font-family:"Open Sans";--e-global-typography-primary-font-size:3.5rem;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-line-height:1.2em;--e-global-typography-primary-letter-spacing:0px;--e-global-typography-primary-word-spacing:0px;--e-global-typography-secondary-font-family:"Open Sans";--e-global-typography-secondary-font-size:2.5rem;--e-global-typography-secondary-font-weight:700;--e-global-typography-secondary-line-height:1.2em;--e-global-typography-secondary-letter-spacing:1px;--e-global-typography-text-font-family:"Open Sans";--e-global-typography-text-font-size:1rem;--e-global-typography-text-line-height:1.4em;--e-global-typography-text-letter-spacing:0.5px;--e-global-typography-text-word-spacing:0px;--e-global-typography-accent-font-family:"Open Sans";--e-global-typography-accent-font-size:0.85rem;--e-global-typography-accent-font-weight:700;--e-global-typography-accent-line-height:1em;--e-global-typography-accent-letter-spacing:1px;--e-global-typography-675f7c8-font-family:"Open Sans";--e-global-typography-675f7c8-font-size:1.85rem;--e-global-typography-675f7c8-font-weight:700;--e-global-typography-675f7c8-line-height:1.2em;--e-global-typography-675f7c8-letter-spacing:0.5px;--e-global-typography-d638feb-font-family:"Open Sans";--e-global-typography-d638feb-font-size:1.25rem;--e-global-typography-d638feb-font-weight:700;--e-global-typography-d638feb-line-height:1.2em;--e-global-typography-d638feb-letter-spacing:0px;--e-global-typography-9c7d161-font-family:"Open Sans";--e-global-typography-9c7d161-font-size:0.85rem;--e-global-typography-9c7d161-font-weight:700;--e-global-typography-9c7d161-line-height:1em;--e-global-typography-9c7d161-letter-spacing:1px;background-color:var( --e-global-color-primary );color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );letter-spacing:var( --e-global-typography-accent-letter-spacing );color:var( --e-global-color-primary );border-radius:14px 14px 14px 14px;padding:010px 030px 010px 30px;}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-kit-5 h1{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );word-spacing:var( --e-global-typography-primary-word-spacing );}.elementor-kit-5 h2{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );line-height:var( --e-global-typography-secondary-line-height );letter-spacing:var( --e-global-typography-secondary-letter-spacing );}.elementor-kit-5 h3{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-675f7c8-font-family ), Sans-serif;font-size:var( --e-global-typography-675f7c8-font-size );font-weight:var( --e-global-typography-675f7c8-font-weight );line-height:var( --e-global-typography-675f7c8-line-height );letter-spacing:var( --e-global-typography-675f7c8-letter-spacing );word-spacing:var( --e-global-typography-675f7c8-word-spacing );}.elementor-kit-5 h4{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1440px;}.e-con{--container-max-width:1440px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-kit-5{--e-global-typography-secondary-font-size:2rem;--e-global-typography-text-font-size:1rem;--e-global-typography-accent-font-size:14px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-kit-5 h1{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );word-spacing:var( --e-global-typography-primary-word-spacing );}.elementor-kit-5 h2{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );letter-spacing:var( --e-global-typography-secondary-letter-spacing );}.elementor-kit-5 h3{font-size:var( --e-global-typography-675f7c8-font-size );line-height:var( --e-global-typography-675f7c8-line-height );letter-spacing:var( --e-global-typography-675f7c8-letter-spacing );word-spacing:var( --e-global-typography-675f7c8-word-spacing );}.elementor-kit-5 h4{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );letter-spacing:var( --e-global-typography-accent-letter-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-5{--e-global-typography-primary-font-size:32px;--e-global-typography-secondary-font-size:28px;--e-global-typography-text-font-size:16px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-kit-5 h1{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );word-spacing:var( --e-global-typography-primary-word-spacing );}.elementor-kit-5 h2{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );letter-spacing:var( --e-global-typography-secondary-letter-spacing );}.elementor-kit-5 h3{font-size:var( --e-global-typography-675f7c8-font-size );line-height:var( --e-global-typography-675f7c8-line-height );letter-spacing:var( --e-global-typography-675f7c8-letter-spacing );word-spacing:var( --e-global-typography-675f7c8-word-spacing );}.elementor-kit-5 h4{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );letter-spacing:var( --e-global-typography-accent-letter-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-10 .elementor-element.elementor-element-cda9fae{--display:flex;--min-height:0px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-cda9fae.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-5719764{--display:flex;--min-height:800px;--justify-content:center;--overlay-opacity:0.27;}.elementor-10 .elementor-element.elementor-element-5719764:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#030303;background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Timeless-Impact.png");background-position:center center;background-size:cover;}.elementor-10 .elementor-element.elementor-element-5719764::before, .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-5719764 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-5719764 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;--background-overlay:'';background-image:linear-gradient(0deg, #000000 0%, #000000 100%);}.elementor-10 .elementor-element.elementor-element-5719764.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-0dec6bd{--display:flex;--gap:40px 0px;--row-gap:40px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:65px;--padding-top:0em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-0dec6bd.e-con{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-238d9b3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-238d9b3.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-238d9b3{text-align:start;}.elementor-10 .elementor-element.elementor-element-238d9b3 .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:70px;font-weight:700;line-height:1.2em;letter-spacing:2px;word-spacing:0px;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-d6cdaba > .elementor-widget-container{margin:0em 0em 0em 0em;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-d6cdaba{column-gap:0px;font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.2em;letter-spacing:1px;word-spacing:0px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-d6cdaba p{margin-block-end:9px;}.elementor-10 .elementor-element.elementor-element-cbfc366{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-cbfc366.e-con{--align-self:flex-start;}.elementor-10 .elementor-element.elementor-element-c63ea2c .elementor-button{background-color:var( --e-global-color-94bf868 );font-size:15px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );border-radius:5px 5px 5px 5px;padding:015px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-471fab5 .elementor-button{background-color:#F3B851;font-family:"Open Sans", Sans-serif;font-size:15px;letter-spacing:0.5px;word-spacing:1px;fill:#000000;color:#000000;border-radius:5px 5px 5px 5px;padding:15px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-471fab5 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-a606448{--display:flex;--min-height:800px;--justify-content:center;--overlay-opacity:0.27;}.elementor-10 .elementor-element.elementor-element-a606448:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-11_18-07-05-256.jpg");background-position:center center;background-size:cover;}.elementor-10 .elementor-element.elementor-element-a606448::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-a606448 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-a606448 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;--background-overlay:'';background-image:linear-gradient(-90deg, #000000 0%, #000000 100%);}.elementor-10 .elementor-element.elementor-element-9308278{--display:flex;--min-height:610px;--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:40px 10px;--row-gap:40px;--column-gap:10px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-9308278.e-con{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-63d20ae > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-63d20ae.elementor-element{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-63d20ae{text-align:center;}.elementor-10 .elementor-element.elementor-element-63d20ae .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:80px;font-weight:700;line-height:1em;letter-spacing:2px;word-spacing:0px;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-0e9fb73{width:100%;max-width:100%;text-align:center;font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.5em;letter-spacing:2.3px;word-spacing:0px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-0e9fb73 > .elementor-widget-container{margin:0em 0em 0em 0em;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-0e9fb73.elementor-element{--align-self:center;}.elementor-10 .elementor-element.elementor-element-0e9fb73 p{margin-block-end:0px;}.elementor-10 .elementor-element.elementor-element-1843296{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-1843296.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-aa76468 .elementor-button{background-color:var( --e-global-color-94bf868 );font-size:15px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );border-radius:5px 5px 5px 5px;padding:015px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-282f2a8 .elementor-button{background-color:#FFFFFF;font-family:"Open Sans", Sans-serif;font-size:15px;letter-spacing:0.5px;word-spacing:1px;fill:#000000;color:#000000;border-radius:5px 5px 5px 5px;padding:15px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-282f2a8 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-ea58da4{--display:flex;--min-height:800px;--justify-content:center;--overlay-opacity:0.27;}.elementor-10 .elementor-element.elementor-element-ea58da4:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-11_18-07-03-670.jpg");background-position:center center;background-size:cover;}.elementor-10 .elementor-element.elementor-element-ea58da4::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;--background-overlay:'';background-image:linear-gradient(-90deg, #000000 0%, #000000 100%);}.elementor-10 .elementor-element.elementor-element-59d53fb{--display:flex;--min-height:610px;--justify-content:center;--align-items:flex-end;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:40px 0px;--row-gap:40px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0em;--padding-bottom:0em;--padding-left:56em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-59d53fb.e-con{--align-self:flex-start;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-b6f90ad{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-b6f90ad > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 1em;}.elementor-10 .elementor-element.elementor-element-b6f90ad.elementor-element{--align-self:flex-start;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-b6f90ad .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:80px;font-weight:700;line-height:1em;letter-spacing:2px;word-spacing:0px;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-14fd41d{width:100%;max-width:100%;text-align:start;font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.5em;letter-spacing:2.3px;word-spacing:0px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-14fd41d > .elementor-widget-container{margin:0em 0em 0em 0em;padding:0em 0em 0em 1em;}.elementor-10 .elementor-element.elementor-element-14fd41d.elementor-element{--align-self:flex-end;}.elementor-10 .elementor-element.elementor-element-14fd41d p{margin-block-end:0px;}.elementor-10 .elementor-element.elementor-element-cd575c8{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-start;--margin-top:0px;--margin-bottom:0px;--margin-left:40px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-cd575c8.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-c79763f .elementor-button{background-color:var( --e-global-color-94bf868 );font-size:15px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );border-radius:5px 5px 5px 5px;padding:015px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-438d962 .elementor-button{background-color:#F3B851;font-family:"Open Sans", Sans-serif;font-size:15px;letter-spacing:0.5px;word-spacing:1px;fill:#000000;color:#000000;border-radius:5px 5px 5px 5px;padding:15px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-438d962 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-83e2585{--display:flex;--min-height:800px;--justify-content:center;--overlay-opacity:0.27;}.elementor-10 .elementor-element.elementor-element-83e2585:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-11_18-07-00-847.jpg");background-position:center center;background-size:cover;}.elementor-10 .elementor-element.elementor-element-83e2585::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;--background-overlay:'';background-image:linear-gradient(-90deg, #000000 0%, #000000 100%);}.elementor-10 .elementor-element.elementor-element-99d3517{--display:flex;--min-height:610px;--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:40px 10px;--row-gap:40px;--column-gap:10px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-99d3517.e-con{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-62103b1{width:var( --container-widget-width, 40.633% );max-width:40.633%;--container-widget-width:40.633%;--container-widget-flex-grow:0;text-align:center;}.elementor-10 .elementor-element.elementor-element-62103b1 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-62103b1.elementor-element{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-62103b1 .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:90px;font-weight:700;line-height:1em;letter-spacing:2px;word-spacing:0px;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-897c361{width:100%;max-width:100%;text-align:center;font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:400;line-height:1.5em;letter-spacing:2.3px;word-spacing:0px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-897c361 > .elementor-widget-container{margin:0em 0em 0em 0em;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-897c361.elementor-element{--align-self:center;}.elementor-10 .elementor-element.elementor-element-897c361 p{margin-block-end:0px;}.elementor-10 .elementor-element.elementor-element-aff5fc9{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-aff5fc9.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-7bdd3b2 .elementor-button{background-color:var( --e-global-color-94bf868 );font-size:15px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );border-radius:5px 5px 5px 5px;padding:015px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-58aea27 .elementor-button{background-color:#FFFFFF;font-family:"Open Sans", Sans-serif;font-size:15px;letter-spacing:0.5px;word-spacing:1px;fill:#000000;color:#000000;border-radius:5px 5px 5px 5px;padding:15px 20px 15px 20px;}.elementor-10 .elementor-element.elementor-element-58aea27 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-362d70b{--e-n-carousel-swiper-slides-to-display:1;--e-n-carousel-swiper-slides-gap:0px;--e-n-carousel-slide-height:auto;--e-n-carousel-slide-container-height:100%;--e-n-carousel-arrow-prev-left-align:0%;--e-n-carousel-arrow-prev-translate-x:0px;--e-n-carousel-arrow-prev-left-position:0px;--e-n-carousel-arrow-prev-top-align:50%;--e-n-carousel-arrow-prev-translate-y:-50%;--e-n-carousel-arrow-prev-top-position:0px;--e-n-carousel-arrow-next-right-align:0%;--e-n-carousel-arrow-next-translate-x:0%;--e-n-carousel-arrow-next-right-position:0px;--e-n-carousel-arrow-next-top-align:50%;--e-n-carousel-arrow-next-translate-y:-50%;--e-n-carousel-arrow-next-top-position:0px;}.elementor-10 .elementor-element.elementor-element-d791ddb{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-51dcd4d{--e-image-carousel-slides-to-show:4;}.elementor-10 .elementor-element.elementor-element-51dcd4d > .elementor-widget-container{margin:0px 0px -8px 0px;}.elementor-10 .elementor-element.elementor-element-fa8bfed{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:6em;--padding-bottom:6em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-26d73f5{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:40px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-ede9647{width:var( --container-widget-width, 79.505% );max-width:79.505%;--container-widget-width:79.505%;--container-widget-flex-grow:0;}.elementor-10 .elementor-element.elementor-element-ede9647.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-b834a19{width:var( --container-widget-width, 78.941% );max-width:78.941%;--container-widget-width:78.941%;--container-widget-flex-grow:0;text-align:justify;}.elementor-10 .elementor-element.elementor-element-b834a19.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-d6650a3{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:40px;--padding-bottom:40px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-7b16b6d > .elementor-widget-container{margin:0px 0px -5px 0px;}.elementor-10 .elementor-element.elementor-element-7b16b6d.elementor-position-right .elementor-image-box-img{margin-left:20px;}.elementor-10 .elementor-element.elementor-element-7b16b6d.elementor-position-left .elementor-image-box-img{margin-right:20px;}.elementor-10 .elementor-element.elementor-element-7b16b6d.elementor-position-top .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-7b16b6d .elementor-image-box-title{margin-bottom:10px;font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-7b16b6d .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-d43e050.elementor-position-right .elementor-image-box-img{margin-left:20px;}.elementor-10 .elementor-element.elementor-element-d43e050.elementor-position-left .elementor-image-box-img{margin-right:20px;}.elementor-10 .elementor-element.elementor-element-d43e050.elementor-position-top .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-d43e050 .elementor-image-box-title{margin-bottom:10px;font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-d43e050 .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-c6ae09f.elementor-position-right .elementor-image-box-img{margin-left:20px;}.elementor-10 .elementor-element.elementor-element-c6ae09f.elementor-position-left .elementor-image-box-img{margin-right:20px;}.elementor-10 .elementor-element.elementor-element-c6ae09f.elementor-position-top .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-c6ae09f .elementor-image-box-title{margin-bottom:10px;font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-c6ae09f .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-23afba3.elementor-position-right .elementor-image-box-img{margin-left:20px;}.elementor-10 .elementor-element.elementor-element-23afba3.elementor-position-left .elementor-image-box-img{margin-right:20px;}.elementor-10 .elementor-element.elementor-element-23afba3.elementor-position-top .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-23afba3 .elementor-image-box-title{margin-bottom:10px;font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-23afba3 .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-08d878a.elementor-position-right .elementor-image-box-img{margin-left:20px;}.elementor-10 .elementor-element.elementor-element-08d878a.elementor-position-left .elementor-image-box-img{margin-right:20px;}.elementor-10 .elementor-element.elementor-element-08d878a.elementor-position-top .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-08d878a .elementor-image-box-title{margin-bottom:10px;font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-08d878a .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-f771334{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 0px 0px;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;--padding-top:0em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-f771334:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-f771334 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#04334C;background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-35-11-870.jpg");background-position:center center;background-size:cover;}.elementor-10 .elementor-element.elementor-element-4f84137{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-end;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-13a769c > .elementor-widget-container{margin:-7em 0em 0em 0em;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-bf1f440{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--gap:60px 60px;--row-gap:60px;--column-gap:60px;--padding-top:1em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-4cdff81{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-4ed48fa{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--border-radius:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-0ef2f78{width:var( --container-widget-width, 30% );max-width:30%;--container-widget-width:30%;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-7c0ef73 > .elementor-widget-container{padding:0em 3em 0em 0em;border-style:solid;border-width:0px 0px 0px 0px;border-color:var( --e-global-color-ac8b74f );}.elementor-10 .elementor-element.elementor-element-7c0ef73 .elementor-icon-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-7c0ef73 .elementor-icon-box-title{margin-block-end:47px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-7c0ef73 .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-7c0ef73 .elementor-icon-box-title a{font-family:"Inter", Sans-serif;font-size:33px;font-weight:600;line-height:1em;letter-spacing:1px;}.elementor-10 .elementor-element.elementor-element-7c0ef73 .elementor-icon-box-description{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:100;line-height:25px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-ff27b90{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}.elementor-10 .elementor-element.elementor-element-6fcc0b0{width:var( --container-widget-width, 17% );max-width:17%;--container-widget-width:17%;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-6fcc0b0 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 > .elementor-widget-container{padding:0em 3em 0em 0em;border-style:solid;border-width:0px 0px 0px 0px;border-color:var( --e-global-color-ac8b74f );}.elementor-10 .elementor-element.elementor-element-0a2e1b0 .elementor-icon-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 .elementor-icon-box-title{margin-block-end:65px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-0a2e1b0 .elementor-icon-box-title a{font-family:"Inter", Sans-serif;font-size:33px;font-weight:600;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 .elementor-icon-box-description{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:100;line-height:25px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-39f2f75{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}.elementor-10 .elementor-element.elementor-element-0fb1dfc{width:var( --container-widget-width, 17% );max-width:17%;--container-widget-width:17%;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-a2856c3 .elementor-icon-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-a2856c3 .elementor-icon-box-title{margin-block-end:20px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-a2856c3 .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-a2856c3 .elementor-icon-box-title a{font-family:"Inter", Sans-serif;font-size:33px;font-weight:600;}.elementor-10 .elementor-element.elementor-element-a2856c3 .elementor-icon-box-description{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:100;line-height:25px;color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-b19b965{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-4a2093b .elementor-button{background-color:#FFFFFF00;font-size:15px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );border-radius:1px -1px 1px -1px;}.elementor-10 .elementor-element.elementor-element-f8e6b20 .elementor-button{background-color:var( --e-global-color-secondary );font-size:15px;border-radius:50px 50px 50px 50px;padding:11px 25px 11px 25px;}.elementor-10 .elementor-element.elementor-element-f8e6b20 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-62a218b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:3em;--padding-bottom:3em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-24866a0{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:flex-start;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-24866a0.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-6117976{width:var( --container-widget-width, 100.147% );max-width:100.147%;--container-widget-width:100.147%;--container-widget-flex-grow:0;}.elementor-10 .elementor-element.elementor-element-6117976.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-6117976 .elementor-image-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-6117976.elementor-position-right .elementor-image-box-img{margin-left:15px;}.elementor-10 .elementor-element.elementor-element-6117976.elementor-position-left .elementor-image-box-img{margin-right:15px;}.elementor-10 .elementor-element.elementor-element-6117976.elementor-position-top .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-6117976 .elementor-image-box-wrapper .elementor-image-box-img{width:30%;}.elementor-10 .elementor-element.elementor-element-6117976 .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-517be40{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-dcc2c31 .elementor-button{background-color:var( --e-global-color-secondary );}.elementor-10 .elementor-element.elementor-element-0779a60 .elementor-button{background-color:var( --e-global-color-accent );fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-c1bf640{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-57cbe77{--e-image-carousel-slides-to-show:6;z-index:0;}.elementor-10 .elementor-element.elementor-element-57cbe77 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-57cbe77 .swiper-wrapper{display:flex;align-items:center;}.elementor-10 .elementor-element.elementor-element-c09bd03{--e-image-carousel-slides-to-show:10;}.elementor-10 .elementor-element.elementor-element-c09bd03 > .elementor-widget-container{padding:44px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-509ffeb{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-915f93d{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-d570ae3 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-d570ae3.elementor-element{--flex-grow:1;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-d570ae3{text-align:start;}.elementor-10 .elementor-element.elementor-element-d570ae3 img{width:100%;height:100%;object-fit:cover;object-position:center center;}.elementor-10 .elementor-element.elementor-element-c98d8ee{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-1e9f637 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-1e9f637.elementor-element{--flex-grow:1;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-1e9f637{text-align:start;}.elementor-10 .elementor-element.elementor-element-1e9f637 img{width:100%;height:100%;object-fit:cover;object-position:center center;}.elementor-10 .elementor-element.elementor-element-83e5da8{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:20px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;}.elementor-10 .elementor-element.elementor-element-83e5da8:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-83e5da8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-accent );}.elementor-10 .elementor-element.elementor-element-5620aa5{text-align:center;}.elementor-10 .elementor-element.elementor-element-5620aa5 .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-a0f6288{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--gap:0px 3px;--row-gap:0px;--column-gap:3px;}.elementor-10 .elementor-element.elementor-element-6078852 .elementor-icon-wrapper{text-align:center;}.elementor-10 .elementor-element.elementor-element-6078852 .elementor-icon{font-size:40px;}.elementor-10 .elementor-element.elementor-element-6078852 .elementor-icon svg{height:40px;}.elementor-10 .elementor-element.elementor-element-6078852 .elementor-icon-wrapper svg{width:auto;}.elementor-10 .elementor-element.elementor-element-a0cfb0c .elementor-icon-wrapper{text-align:center;}.elementor-10 .elementor-element.elementor-element-a0cfb0c .elementor-icon{font-size:40px;}.elementor-10 .elementor-element.elementor-element-a0cfb0c .elementor-icon svg{height:40px;}.elementor-10 .elementor-element.elementor-element-a0cfb0c .elementor-icon-wrapper svg{width:auto;}.elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon-wrapper{text-align:center;}.elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon{font-size:40px;}.elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon svg{height:40px;}.elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon-wrapper svg{width:auto;}.elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon i, .elementor-10 .elementor-element.elementor-element-0e55459 .elementor-icon svg{transform:rotate(180deg);}.elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon-wrapper{text-align:center;}.elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon{font-size:40px;}.elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon svg{height:40px;}.elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon-wrapper svg{width:auto;}.elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon i, .elementor-10 .elementor-element.elementor-element-16a1e37 .elementor-icon svg{transform:rotate(180deg);}.elementor-10 .elementor-element.elementor-element-9036ad4{--display:flex;--justify-content:center;}.elementor-10 .elementor-element.elementor-element-b59b7fd{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-5af6042{text-align:center;line-height:0.6em;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-84f9302{text-align:center;}.elementor-10 .elementor-element.elementor-element-84f9302 .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-fd3e18c{--display:flex;}.elementor-10 .elementor-element.elementor-element-875cb0a{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-b0e0c90{text-align:center;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-cd1841a{text-align:center;}.elementor-10 .elementor-element.elementor-element-cd1841a .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-4f25624{--display:flex;}.elementor-10 .elementor-element.elementor-element-475a5cd{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-77e8c4b{text-align:center;line-height:0.5em;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-531c0fd{text-align:center;}.elementor-10 .elementor-element.elementor-element-531c0fd .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-38462d0{--display:flex;}.elementor-10 .elementor-element.elementor-element-860fefc{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-2b6ecf2{text-align:center;line-height:0.5em;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-533bf9f{text-align:center;}.elementor-10 .elementor-element.elementor-element-533bf9f .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-72d80b8{--display:flex;}.elementor-10 .elementor-element.elementor-element-ed0089f{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-254db57{text-align:center;line-height:0.5em;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-d199fe3{text-align:center;}.elementor-10 .elementor-element.elementor-element-d199fe3 .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-227b656{--display:flex;}.elementor-10 .elementor-element.elementor-element-4755fa8{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-ddda8d7{text-align:center;line-height:0.5em;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-36010d5{text-align:center;}.elementor-10 .elementor-element.elementor-element-36010d5 .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-861bb66{--display:flex;}.elementor-10 .elementor-element.elementor-element-f8323e4{text-align:center;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-47b64c7{text-align:center;color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-e0855eb{text-align:center;}.elementor-10 .elementor-element.elementor-element-e0855eb .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-10 .elementor-element.elementor-element-0ca4212{--e-n-carousel-swiper-slides-to-display:1;--e-n-carousel-swiper-slides-gap:10px;--e-n-carousel-slide-height:auto;--e-n-carousel-slide-container-height:100%;--e-n-carousel-arrow-prev-left-align:0%;--e-n-carousel-arrow-prev-translate-x:0px;--e-n-carousel-arrow-prev-left-position:0px;--e-n-carousel-arrow-prev-top-align:50%;--e-n-carousel-arrow-prev-translate-y:-50%;--e-n-carousel-arrow-prev-top-position:0px;--e-n-carousel-arrow-next-right-align:0%;--e-n-carousel-arrow-next-translate-x:0%;--e-n-carousel-arrow-next-right-position:0px;--e-n-carousel-arrow-next-top-align:50%;--e-n-carousel-arrow-next-translate-y:-50%;--e-n-carousel-arrow-next-top-position:0px;}.elementor-10 .elementor-element.elementor-element-027730a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-027730a:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-027730a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951.jpg");background-position:center center;background-repeat:no-repeat;}.elementor-10 .elementor-element.elementor-element-db48692{--spacer-size:55vh;}.elementor-10 .elementor-element.elementor-element-1e5833a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-1e5833a:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-1e5833a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-4141-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:100% auto;}.elementor-10 .elementor-element.elementor-element-8104dac{--spacer-size:55vh;}.elementor-10 .elementor-element.elementor-element-6c870ae{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-6c870ae:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-6c870ae > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/01/1734422526106.jpg");background-position:center center;background-repeat:no-repeat;}.elementor-10 .elementor-element.elementor-element-5278443{--spacer-size:55vh;}.elementor-10 .elementor-element.elementor-element-6bfae7e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:1em;--padding-bottom:2em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-390427a{width:var( --container-widget-width, 102.133% );max-width:102.133%;--container-widget-width:102.133%;--container-widget-flex-grow:0;}.elementor-10 .elementor-element.elementor-element-390427a.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-10 .elementor-element.elementor-element-390427a .elementor-image-box-wrapper{text-align:center;}.elementor-10 .elementor-element.elementor-element-390427a.elementor-position-right .elementor-image-box-img{margin-left:15px;}.elementor-10 .elementor-element.elementor-element-390427a.elementor-position-left .elementor-image-box-img{margin-right:15px;}.elementor-10 .elementor-element.elementor-element-390427a.elementor-position-top .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-390427a .elementor-image-box-wrapper .elementor-image-box-img{width:30%;}.elementor-10 .elementor-element.elementor-element-390427a .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-615bb84.elementor-element{--align-self:center;}.elementor-10 .elementor-element.elementor-element-4ee00ff{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:60px 60px;--row-gap:60px;--column-gap:60px;--padding-top:6em;--padding-bottom:4em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-e4d7d7b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-646781c{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-b69806d{width:var( --container-widget-width, 65% );max-width:65%;--container-widget-width:65%;--container-widget-flex-grow:0;}.elementor-10 .elementor-element.elementor-element-b69806d .elementor-image-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-b69806d.elementor-position-right .elementor-image-box-img{margin-left:15px;}.elementor-10 .elementor-element.elementor-element-b69806d.elementor-position-left .elementor-image-box-img{margin-right:15px;}.elementor-10 .elementor-element.elementor-element-b69806d.elementor-position-top .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-b69806d .elementor-image-box-wrapper .elementor-image-box-img{width:30%;}.elementor-10 .elementor-element.elementor-element-b69806d .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-9b0e125{--display:flex;--justify-content:flex-end;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-131dd20.elementor-element{--align-self:flex-end;}.elementor-10 .elementor-element.elementor-element-c8452d0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:5em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-c8452d0:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-c8452d0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2024/12/Easy-Accurate-and-Reliable-Market-Research-1.jpg");}.elementor-10 .elementor-element.elementor-element-cffef75{--swiper-slides-to-display:4;--swiper-slides-gap:10px;}.elementor-10 .elementor-element.elementor-element-cffef75 .swiper-slide > .elementor-element{height:100%;}.elementor-10 .elementor-element.elementor-element-8c7728a{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:80px 80px;--row-gap:80px;--column-gap:80px;--padding-top:3em;--padding-bottom:3em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-220c0b6{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-f381c39{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-d46d3a9 .elementor-image-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-d46d3a9.elementor-position-right .elementor-image-box-img{margin-left:15px;}.elementor-10 .elementor-element.elementor-element-d46d3a9.elementor-position-left .elementor-image-box-img{margin-right:15px;}.elementor-10 .elementor-element.elementor-element-d46d3a9.elementor-position-top .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-d46d3a9 .elementor-image-box-wrapper .elementor-image-box-img{width:30%;}.elementor-10 .elementor-element.elementor-element-d46d3a9 .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-8bc6e9d{--display:flex;--border-radius:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-5bface0 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-7b8df89{--display:flex;}.elementor-10 .elementor-element.elementor-element-3341798{--display:flex;}.elementor-10 .elementor-element.elementor-element-abbbd49{--display:flex;}.elementor-10 .elementor-element.elementor-element-ef3129d{--display:flex;}.elementor-10 .elementor-element.elementor-element-3607c36{--display:flex;}.elementor-10 .elementor-element.elementor-element-6f13d15{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-0bf7165{--display:flex;}.elementor-10 .elementor-element.elementor-element-31af9e2{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-d914d86{--display:flex;}.elementor-10 .elementor-element.elementor-element-f3aa1af{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-be10faf{--n-accordion-title-font-size:var( --e-global-typography-d638feb-font-size );--n-accordion-title-justify-content:space-between;--n-accordion-title-flex-grow:1;--n-accordion-title-icon-order:initial;--n-accordion-item-title-space-between:20px;--n-accordion-item-title-distance-from-content:8px;--n-accordion-border-radius:24px 24px 24px 24px;--n-accordion-title-normal-color:var( --e-global-color-secondary );--n-accordion-title-hover-color:var( --e-global-color-text );--n-accordion-title-active-color:var( --e-global-color-secondary );--n-accordion-icon-size:15px;--n-accordion-icon-normal-color:var( --e-global-color-secondary );--n-accordion-icon-active-color:var( --e-global-color-secondary );}.elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container{margin:0px 0px 0px 0px;padding:010px 015px 010px 0px;}.elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container > .e-n-accordion > .e-n-accordion-item > .e-n-accordion-item-title{border-style:solid;border-width:01px 01px 01px 01px;}.elementor-10 .elementor-element.elementor-element-be10faf {--n-accordion-padding:20px 20px 020px 20px;}:where( .elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container > .e-n-accordion > .e-n-accordion-item > .e-n-accordion-item-title > .e-n-accordion-item-title-header ) > .e-n-accordion-item-title-text{font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}:where( .elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container > .e-n-accordion > .e-n-accordion-item ) > .e-con{border-style:none;--border-radius:024px 024px 024px 024px;--padding-top:00px;--padding-right:15px;--padding-bottom:15px;--padding-left:15px;}.elementor-10 .elementor-element.elementor-element-c761b8f{--display:flex;--justify-content:space-between;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-af81513{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-6961cdd .elementor-image-box-wrapper{text-align:start;}.elementor-10 .elementor-element.elementor-element-6961cdd.elementor-position-right .elementor-image-box-img{margin-left:15px;}.elementor-10 .elementor-element.elementor-element-6961cdd.elementor-position-left .elementor-image-box-img{margin-right:15px;}.elementor-10 .elementor-element.elementor-element-6961cdd.elementor-position-top .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-6961cdd .elementor-image-box-wrapper .elementor-image-box-img{width:30%;}.elementor-10 .elementor-element.elementor-element-6961cdd .elementor-image-box-img img{transition-duration:0.3s;}.elementor-10 .elementor-element.elementor-element-a613816{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}body:not(.rtl) .elementor-10 .elementor-element.elementor-element-5762c00{left:2px;}body.rtl .elementor-10 .elementor-element.elementor-element-5762c00{right:2px;}.elementor-10 .elementor-element.elementor-element-5762c00{top:-609px;--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group{padding-right:calc( 15px/2 );padding-left:calc( 15px/2 );margin-bottom:48px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-form-fields-wrapper{margin-left:calc( -15px/2 );margin-right:calc( -15px/2 );margin-bottom:-48px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group.recaptcha_v3-bottomleft, .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group.recaptcha_v3-bottomright{margin-bottom:0;}body.rtl .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group > label{font-family:var( --e-global-typography-d638feb-font-family ), Sans-serif;font-size:var( --e-global-typography-d638feb-font-size );font-weight:var( --e-global-typography-d638feb-font-weight );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-type-html{padding-bottom:0px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group .elementor-field, .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group .elementor-field:not(.elementor-select-wrapper){background-color:#ffffff;border-radius:24px 24px 24px 24px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group .elementor-select-wrapper select{background-color:#ffffff;border-radius:24px 24px 24px 24px;}.elementor-10 .elementor-element.elementor-element-5762c00 .e-form__buttons__wrapper__button-next{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-button[type="submit"]{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-button[type="submit"] svg *{fill:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .e-form__buttons__wrapper__button-previous{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .e-form__buttons__wrapper__button-next:hover{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-button[type="submit"]:hover{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-button[type="submit"]:hover svg *{fill:#ffffff;}.elementor-10 .elementor-element.elementor-element-5762c00 .e-form__buttons__wrapper__button-previous:hover{color:#ffffff;}.elementor-10 .elementor-element.elementor-element-6f67f4b{--spacer-size:50px;}@media(max-width:1024px){.elementor-10 .elementor-element.elementor-element-5719764:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_11-06-20-930.jpg");}.elementor-10 .elementor-element.elementor-element-5719764{--min-height:800px;}.elementor-10 .elementor-element.elementor-element-0dec6bd{--min-height:782px;--justify-content:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:4em;--padding-bottom:4em;--padding-left:3em;--padding-right:4em;}.elementor-10 .elementor-element.elementor-element-0dec6bd.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-238d9b3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-238d9b3{text-align:center;}.elementor-10 .elementor-element.elementor-element-238d9b3 .elementor-heading-title{font-size:50px;}.elementor-10 .elementor-element.elementor-element-d6cdaba > .elementor-widget-container{margin:0em 0em 0em 0em;padding:1em 1em 1em 1em;}.elementor-10 .elementor-element.elementor-element-d6cdaba{text-align:center;font-size:20px;line-height:30px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-cbfc366{--justify-content:center;--padding-top:5px;--padding-bottom:5px;--padding-left:5px;--padding-right:5px;}.elementor-10 .elementor-element.elementor-element-a606448:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Tablet-carousel-2.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-a606448{--min-height:700px;}.elementor-10 .elementor-element.elementor-element-9308278{--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-10 .elementor-element.elementor-element-63d20ae > .elementor-widget-container{padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-63d20ae .elementor-heading-title{font-size:70px;}.elementor-10 .elementor-element.elementor-element-0e9fb73 > .elementor-widget-container{padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-0e9fb73{font-size:20px;line-height:30px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-ea58da4:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Tablet-carousel-3.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-ea58da4{--min-height:700px;}.elementor-10 .elementor-element.elementor-element-59d53fb{--justify-content:flex-start;--align-items:stretch;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:-2em;--padding-bottom:-2em;--padding-left:-2em;--padding-right:-2em;}.elementor-10 .elementor-element.elementor-element-b6f90ad > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-b6f90ad.elementor-element{--align-self:center;}.elementor-10 .elementor-element.elementor-element-b6f90ad{text-align:center;}.elementor-10 .elementor-element.elementor-element-b6f90ad .elementor-heading-title{font-size:70px;}.elementor-10 .elementor-element.elementor-element-14fd41d > .elementor-widget-container{padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-14fd41d{text-align:center;font-size:20px;line-height:30px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-cd575c8{--justify-content:center;}.elementor-10 .elementor-element.elementor-element-83e2585:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Tablet-carousel-4.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-83e2585{--min-height:700px;}.elementor-10 .elementor-element.elementor-element-99d3517{--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-10 .elementor-element.elementor-element-62103b1 > .elementor-widget-container{padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-62103b1 .elementor-heading-title{font-size:70px;}.elementor-10 .elementor-element.elementor-element-897c361 > .elementor-widget-container{padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-897c361{font-size:20px;line-height:30px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-362d70b{--e-n-carousel-swiper-slides-to-display:1;}.elementor-10 .elementor-element.elementor-element-51dcd4d{--e-image-carousel-slides-to-show:4;}.elementor-10 .elementor-element.elementor-element-fa8bfed{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:2em;--padding-bottom:4em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-ede9647{width:100%;max-width:100%;}.elementor-10 .elementor-element.elementor-element-b834a19{width:100%;max-width:100%;}.elementor-10 .elementor-element.elementor-element-d6650a3{--padding-top:0px;--padding-bottom:80px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-7b16b6d .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-d43e050 .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-c6ae09f .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-23afba3 .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-08d878a .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-f771334{--min-height:0vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0em;--padding-bottom:3em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-bf1f440{--padding-top:0em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-4cdff81{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-4ed48fa{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-7c0ef73 > .elementor-widget-container{padding:0em 0em 2em 0em;border-width:0px 0px 2px 0px;}.elementor-10 .elementor-element.elementor-element-ff27b90{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 > .elementor-widget-container{padding:0em 0em 2em 0em;border-width:0px 0px 2px 0px;}.elementor-10 .elementor-element.elementor-element-39f2f75{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-b19b965{--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;}.elementor-10 .elementor-element.elementor-element-62a218b{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-6117976{width:100%;max-width:100%;}.elementor-10 .elementor-element.elementor-element-517be40{--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-start;}.elementor-10 .elementor-element.elementor-element-c09bd03{--e-image-carousel-slides-to-show:5;}.elementor-10 .elementor-element.elementor-element-c09bd03 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-509ffeb{--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-10 .elementor-element.elementor-element-83e5da8{--padding-top:20px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;}.elementor-10 .elementor-element.elementor-element-83e5da8.e-con{--order:-99999 /* order start hack */;}.elementor-10 .elementor-element.elementor-element-b59b7fd{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-875cb0a{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-475a5cd{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-860fefc{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-ed0089f{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-4755fa8{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-f8323e4{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-0ca4212{--e-n-carousel-swiper-slides-to-display:1;}.elementor-10 .elementor-element.elementor-element-390427a{width:100%;max-width:100%;}.elementor-10 .elementor-element.elementor-element-4ee00ff{--padding-top:6em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-10 .elementor-element.elementor-element-b69806d{width:100%;max-width:100%;}.elementor-10 .elementor-element.elementor-element-cffef75{--swiper-slides-to-display:2;}.elementor-10 .elementor-element.elementor-element-8c7728a{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-be10faf{--n-accordion-title-font-size:var( --e-global-typography-d638feb-font-size );}:where( .elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container > .e-n-accordion > .e-n-accordion-item > .e-n-accordion-item-title > .e-n-accordion-item-title-header ) > .e-n-accordion-item-title-text{line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-af81513{--margin-top:0px;--margin-bottom:500px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}body:not(.rtl) .elementor-10 .elementor-element.elementor-element-5762c00{left:64px;}body.rtl .elementor-10 .elementor-element.elementor-element-5762c00{right:64px;}.elementor-10 .elementor-element.elementor-element-5762c00{top:-490px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group > label{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group .elementor-field, .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}}@media(min-width:768px){.elementor-10 .elementor-element.elementor-element-cda9fae{--width:100%;}.elementor-10 .elementor-element.elementor-element-5719764{--content-width:100%;}.elementor-10 .elementor-element.elementor-element-cbfc366{--width:65%;}.elementor-10 .elementor-element.elementor-element-a606448{--content-width:1600px;}.elementor-10 .elementor-element.elementor-element-1843296{--width:100%;}.elementor-10 .elementor-element.elementor-element-59d53fb{--content-width:80%;}.elementor-10 .elementor-element.elementor-element-cd575c8{--width:100%;}.elementor-10 .elementor-element.elementor-element-83e2585{--content-width:1440px;}.elementor-10 .elementor-element.elementor-element-99d3517{--width:1271px;}.elementor-10 .elementor-element.elementor-element-aff5fc9{--width:100%;}.elementor-10 .elementor-element.elementor-element-4f84137{--width:35%;}.elementor-10 .elementor-element.elementor-element-bf1f440{--width:65%;}.elementor-10 .elementor-element.elementor-element-b19b965{--width:75%;}.elementor-10 .elementor-element.elementor-element-24866a0{--width:30.111%;}.elementor-10 .elementor-element.elementor-element-509ffeb{--width:100%;}.elementor-10 .elementor-element.elementor-element-915f93d{--width:33.3333%;}.elementor-10 .elementor-element.elementor-element-c98d8ee{--width:33.3333%;}.elementor-10 .elementor-element.elementor-element-83e5da8{--width:33.3333%;}.elementor-10 .elementor-element.elementor-element-027730a{--width:33.3333%;}.elementor-10 .elementor-element.elementor-element-1e5833a{--width:33.3333%;}.elementor-10 .elementor-element.elementor-element-6c870ae{--width:33.3333%;}}@media(max-width:1024px) and (min-width:768px){.elementor-10 .elementor-element.elementor-element-cda9fae{--width:100%;}.elementor-10 .elementor-element.elementor-element-5719764{--content-width:1600px;}.elementor-10 .elementor-element.elementor-element-0dec6bd{--content-width:100%;}.elementor-10 .elementor-element.elementor-element-cbfc366{--width:100%;}.elementor-10 .elementor-element.elementor-element-1843296{--width:100%;}.elementor-10 .elementor-element.elementor-element-cd575c8{--width:100%;}.elementor-10 .elementor-element.elementor-element-aff5fc9{--width:100%;}.elementor-10 .elementor-element.elementor-element-fa8bfed{--content-width:100%;}.elementor-10 .elementor-element.elementor-element-26d73f5{--width:100%;}.elementor-10 .elementor-element.elementor-element-d6650a3{--width:100%;}.elementor-10 .elementor-element.elementor-element-f771334{--content-width:100%;}.elementor-10 .elementor-element.elementor-element-4f84137{--width:100%;}.elementor-10 .elementor-element.elementor-element-bf1f440{--width:100%;}.elementor-10 .elementor-element.elementor-element-4cdff81{--width:100%;}.elementor-10 .elementor-element.elementor-element-4ed48fa{--width:100%;}.elementor-10 .elementor-element.elementor-element-b19b965{--width:100%;}.elementor-10 .elementor-element.elementor-element-24866a0{--width:100%;}.elementor-10 .elementor-element.elementor-element-c1bf640{--width:100%;}.elementor-10 .elementor-element.elementor-element-915f93d{--width:100%;}.elementor-10 .elementor-element.elementor-element-c98d8ee{--width:100%;}.elementor-10 .elementor-element.elementor-element-83e5da8{--width:100%;}.elementor-10 .elementor-element.elementor-element-027730a{--width:100%;}.elementor-10 .elementor-element.elementor-element-1e5833a{--width:100%;}.elementor-10 .elementor-element.elementor-element-6c870ae{--width:100%;}}@media(max-width:767px){.elementor-10 .elementor-element.elementor-element-cda9fae{--width:100%;}.elementor-10 .elementor-element.elementor-element-5719764:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-5719764 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Phone-carousel-1.png");background-size:cover;}.elementor-10 .elementor-element.elementor-element-5719764{--min-height:700px;--justify-content:flex-end;--overlay-opacity:0.5;}.elementor-10 .elementor-element.elementor-element-0dec6bd{--min-height:745px;--justify-content:center;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:4em;--padding-bottom:4em;--padding-left:3em;--padding-right:4em;}.elementor-10 .elementor-element.elementor-element-0dec6bd.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-238d9b3{width:var( --container-widget-width, 212px );max-width:212px;--container-widget-width:212px;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-238d9b3 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-238d9b3.elementor-element{--align-self:flex-start;}.elementor-10 .elementor-element.elementor-element-238d9b3 .elementor-heading-title{font-size:47px;}.elementor-10 .elementor-element.elementor-element-d6cdaba{font-size:15px;line-height:29px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-cbfc366{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;}.elementor-10 .elementor-element.elementor-element-a606448:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Phone-carousel-2.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-a606448{--justify-content:flex-end;--overlay-opacity:0.5;}.elementor-10 .elementor-element.elementor-element-a606448::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-a606448 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-a606448 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-a606448 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;background-image:linear-gradient(216deg, #000000 50%, #000000 50%);}.elementor-10 .elementor-element.elementor-element-9308278{--justify-content:center;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:4em;--padding-bottom:4em;--padding-left:3em;--padding-right:4em;}.elementor-10 .elementor-element.elementor-element-9308278.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-63d20ae{width:var( --container-widget-width, 212px );max-width:212px;--container-widget-width:212px;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-63d20ae > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-63d20ae.elementor-element{--align-self:flex-start;}.elementor-10 .elementor-element.elementor-element-63d20ae .elementor-heading-title{font-size:47px;}.elementor-10 .elementor-element.elementor-element-0e9fb73{font-size:15px;line-height:29px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-1843296{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;}.elementor-10 .elementor-element.elementor-element-ea58da4:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Phone-carousel-3.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-ea58da4{--justify-content:flex-end;--overlay-opacity:0.5;}.elementor-10 .elementor-element.elementor-element-ea58da4::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-ea58da4 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;background-image:linear-gradient(216deg, #000000 50%, #000000 50%);}.elementor-10 .elementor-element.elementor-element-59d53fb{--min-height:745px;--justify-content:center;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:4em;--padding-bottom:4em;--padding-left:3em;--padding-right:4em;}.elementor-10 .elementor-element.elementor-element-59d53fb.e-con{--align-self:flex-end;}.elementor-10 .elementor-element.elementor-element-b6f90ad{width:var( --container-widget-width, 112.683% );max-width:112.683%;--container-widget-width:112.683%;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-b6f90ad > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-b6f90ad.elementor-element{--align-self:flex-start;}.elementor-10 .elementor-element.elementor-element-b6f90ad .elementor-heading-title{font-size:43px;line-height:1.2em;}.elementor-10 .elementor-element.elementor-element-14fd41d{font-size:15px;line-height:29px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-cd575c8{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;}.elementor-10 .elementor-element.elementor-element-83e2585:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2025/12/Phone-carousel-4.png");background-position:center center;}.elementor-10 .elementor-element.elementor-element-83e2585{--justify-content:flex-end;--overlay-opacity:0.5;}.elementor-10 .elementor-element.elementor-element-83e2585::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .e-con-inner > .elementor-background-video-container::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .e-con-inner > .elementor-background-slideshow::before, .elementor-10 .elementor-element.elementor-element-83e2585 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:transparent;background-image:linear-gradient(216deg, #000000 50%, #000000 50%);}.elementor-10 .elementor-element.elementor-element-99d3517{--min-height:750px;--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:4em;--padding-bottom:4em;--padding-left:3em;--padding-right:4em;}.elementor-10 .elementor-element.elementor-element-99d3517.e-con{--align-self:center;}.elementor-10 .elementor-element.elementor-element-62103b1{width:var( --container-widget-width, 212px );max-width:212px;--container-widget-width:212px;--container-widget-flex-grow:0;text-align:start;}.elementor-10 .elementor-element.elementor-element-62103b1 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-62103b1.elementor-element{--align-self:flex-start;}.elementor-10 .elementor-element.elementor-element-62103b1 .elementor-heading-title{font-size:47px;}.elementor-10 .elementor-element.elementor-element-897c361{font-size:15px;line-height:29px;letter-spacing:2px;}.elementor-10 .elementor-element.elementor-element-aff5fc9{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;}.elementor-10 .elementor-element.elementor-element-362d70b{--e-n-carousel-swiper-slides-to-display:1;}.elementor-10 .elementor-element.elementor-element-d6650a3{--padding-top:80px;--padding-bottom:80px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-7b16b6d .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-7b16b6d .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-d43e050 .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-d43e050 .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-c6ae09f .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-c6ae09f .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-23afba3 .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-23afba3 .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-08d878a .elementor-image-box-img{margin-bottom:20px;}.elementor-10 .elementor-element.elementor-element-08d878a .elementor-image-box-title{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-bf1f440{--padding-top:2em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-10 .elementor-element.elementor-element-4ed48fa{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-7c0ef73 > .elementor-widget-container{padding:0em 0em 2em 0em;border-width:0px 0px 2px 0px;}.elementor-10 .elementor-element.elementor-element-ff27b90{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-0a2e1b0 > .elementor-widget-container{border-width:0px 0px 2px 0px;}.elementor-10 .elementor-element.elementor-element-39f2f75{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-b19b965{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-10 .elementor-element.elementor-element-6117976 .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-517be40{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;}.elementor-10 .elementor-element.elementor-element-c1bf640{--padding-top:50px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-10 .elementor-element.elementor-element-57cbe77{--e-image-carousel-slides-to-show:3;}.elementor-10 .elementor-element.elementor-element-57cbe77.elementor-element{--align-self:center;}.elementor-10 .elementor-element.elementor-element-c09bd03{--e-image-carousel-slides-to-show:3;}.elementor-10 .elementor-element.elementor-element-c09bd03 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-509ffeb{--min-height:0px;}.elementor-10 .elementor-element.elementor-element-1e9f637 img{width:100%;}.elementor-10 .elementor-element.elementor-element-83e5da8{--min-height:0px;}.elementor-10 .elementor-element.elementor-element-83e5da8.e-con{--order:-99999 /* order start hack */;}.elementor-10 .elementor-element.elementor-element-b59b7fd{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-875cb0a{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-475a5cd{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-860fefc{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-ed0089f{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-4755fa8{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-f8323e4{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-0ca4212{--e-n-carousel-swiper-slides-to-display:1;}.elementor-10 .elementor-element.elementor-element-db48692{--spacer-size:20em;}.elementor-10 .elementor-element.elementor-element-8104dac{--spacer-size:20em;}.elementor-10 .elementor-element.elementor-element-5278443{--spacer-size:20em;}.elementor-10 .elementor-element.elementor-element-390427a .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-615bb84.elementor-element{--align-self:stretch;}.elementor-10 .elementor-element.elementor-element-b69806d .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-9b0e125{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-end;}.elementor-10 .elementor-element.elementor-element-131dd20.elementor-element{--align-self:stretch;}.elementor-10 .elementor-element.elementor-element-cffef75{--swiper-slides-to-display:1;}.elementor-10 .elementor-element.elementor-element-d46d3a9 .elementor-image-box-img{margin-bottom:15px;}.elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-10 .elementor-element.elementor-element-be10faf{--n-accordion-title-font-size:var( --e-global-typography-d638feb-font-size );}:where( .elementor-10 .elementor-element.elementor-element-be10faf > .elementor-widget-container > .e-n-accordion > .e-n-accordion-item > .e-n-accordion-item-title > .e-n-accordion-item-title-header ) > .e-n-accordion-item-title-text{line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-af81513{--margin-top:0px;--margin-bottom:370px;--margin-left:0px;--margin-right:0px;}.elementor-10 .elementor-element.elementor-element-6961cdd .elementor-image-box-img{margin-bottom:15px;}body:not(.rtl) .elementor-10 .elementor-element.elementor-element-5762c00{left:0px;}body.rtl .elementor-10 .elementor-element.elementor-element-5762c00{right:0px;}.elementor-10 .elementor-element.elementor-element-5762c00{top:-380px;}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group > label{font-size:var( --e-global-typography-d638feb-font-size );line-height:var( --e-global-typography-d638feb-line-height );letter-spacing:var( --e-global-typography-d638feb-letter-spacing );word-spacing:var( --e-global-typography-d638feb-word-spacing );}.elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-group .elementor-field, .elementor-10 .elementor-element.elementor-element-5762c00 .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );word-spacing:var( --e-global-typography-text-word-spacing );}.elementor-10 .elementor-element.elementor-element-6f67f4b{--spacer-size:250px;}}
+.elementor-2905 .elementor-element.elementor-element-c309096{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--overlay-opacity:1;--padding-top:0px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-2905 .elementor-element.elementor-element-c309096:not(.elementor-motion-effects-element-type-background), .elementor-2905 .elementor-element.elementor-element-c309096 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-41.png");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-2905 .elementor-element.elementor-element-c309096::before, .elementor-2905 .elementor-element.elementor-element-c309096 > .elementor-background-video-container::before, .elementor-2905 .elementor-element.elementor-element-c309096 > .e-con-inner > .elementor-background-video-container::before, .elementor-2905 .elementor-element.elementor-element-c309096 > .elementor-background-slideshow::before, .elementor-2905 .elementor-element.elementor-element-c309096 > .e-con-inner > .elementor-background-slideshow::before, .elementor-2905 .elementor-element.elementor-element-c309096 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:#000000D4;--background-overlay:'';}.elementor-2905 .elementor-element.elementor-element-f85d498 > .elementor-widget-container{margin:100px 0px 0px 0px;}.elementor-2905 .elementor-element.elementor-element-f85d498{text-align:start;}.elementor-2905 .elementor-element.elementor-element-511e788{width:var( --container-widget-width, 75% );max-width:75%;--container-widget-width:75%;--container-widget-flex-grow:0;}.elementor-2905 .elementor-element.elementor-element-511e788 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-2905 .elementor-element.elementor-element-511e788 .elementor-heading-title{color:#FFFFFF;}.elementor-2905 .elementor-element.elementor-element-90461de{width:var( --container-widget-width, 75% );max-width:75%;--container-widget-width:75%;--container-widget-flex-grow:0;color:#FFFFFF;}.elementor-2905 .elementor-element.elementor-element-90461de > .elementor-widget-container{margin:0px 0px 100px 0px;}#elementor-popup-modal-2905{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-2905 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-2905 .dialog-close-button{display:flex;}#elementor-popup-modal-2905 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='widget-image-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-nested-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-image-box-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInDown-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-loop-common-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='widget-loop-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-carousel.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='widget-nested-accordion-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.9.6' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.9.6' media='all' />
+<link rel='stylesheet' id='elementor-gf-opensans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<link rel='stylesheet' id='elementor-gf-inter-css' href='https://fonts.googleapis.com/css?family=Inter:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<!--n2css--><!--n2js--><script type='text/javascript'>
+        var elementskit = {
+            resturl: 'https://tangereapp.com/wp-json/elementskit/v1/',
+        }
 
+        </script><script id="jquery-core-js" src="https://tangereapp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-core-js-after">
+jQuery(function($) {
+            var counters = $(".tangere-stock-counter");
+            if (!counters.length) return;
+
+            function updateStocks() {
+                counters.each(function() {
+                    var $el    = $(this);
+                    var formId = $el.data("form-id");
+
+                    $.post("https:\/\/tangereapp.com\/wp-admin\/admin-ajax.php", {
+                        action:  "tangere_get_stock",
+                        form_id: formId
+                    }, function(res) {
+                        if (res.success) {
+                            $el.text(res.data.display);
+                        }
+                    });
+                });
+            }
+
+            // Poll every 10 seconds
+            setInterval(updateStocks, 5000);
+        });
     
-    <meta name="keywords"
-        content="laboratorium herbal, tanaman obat, layanan pengujian herbal">
+//# sourceURL=jquery-core-js-after
+</script>
+<script id="jquery-migrate-js" src="https://tangereapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://tangereapp.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://tangereapp.com/wp-json/wp/v2/pages/10" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tangereapp.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0" />
+<link rel="canonical" href="https://tangereapp.com/" />
+<link rel='shortlink' href='https://tangereapp.com/' />
+<meta name="generator" content="Elementor 4.1.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-swap">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3W0ENVWF9S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    
-    <meta property="og:title" content="Home | Materia Medica Batu">
-    <meta property="og:description"
-        content="Website Profile UPT Materia Medica Batu Dinas Kesehatan Pemerintah Provinsi Jawa Timur">
-    <meta property="og:image" content="">
-    
-    <meta property="og:url" content="">
-    <meta property="og:type" content="website">
+  gtag('config', 'G-3W0ENVWF9S');
+</script>
+            <style>
+                .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+                .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                    background-image: none !important;
+                }
+                @media screen and (max-height: 1024px) {
+                    .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+                    .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                        background-image: none !important;
+                    }
+                }
+                @media screen and (max-height: 640px) {
+                    .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+                    .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+                        background-image: none !important;
+                    }
+                }
+            </style>
+            <link rel="icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-270x270.png" />
+<style id="wp-custom-css">
+span.gfield_required {
+    display: none;
+}
 
-    
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Home | Materia Medica Batu">
-    <meta name="twitter:description"
-        content="Website Profile UPT Materia Medica Batu Dinas Kesehatan Pemerintah Provinsi Jawa Timur">
-    <meta name="twitter:image" content="">
+input#gform_submit_button_1, input#gform_submit_button_2, input#gform_submit_button_3, input#gform_submit_button_4 {
+    background-color: #D83B40;
+    border-radius: 37px;
+    font-size: 17px;
+    padding: 14px 23px 14px 23px;
+}
 
-    
-    <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="/favicon/android-chrome-512x512.png">
-    <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png">
 
-    <link rel="preload" as="style" href="https://materiamedicabatu.jatimprov.go.id/build/assets/app-CzriP199.css" /><link rel="stylesheet" href="https://materiamedicabatu.jatimprov.go.id/build/assets/app-CzriP199.css" data-navigate-track="reload" />    <link rel="modulepreload" href="https://materiamedicabatu.jatimprov.go.id/build/assets/app-QNTlglVz.js" /><script type="module" src="https://materiamedicabatu.jatimprov.go.id/build/assets/app-QNTlglVz.js" data-navigate-track="reload"></script>
-    <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}</style>
+input#gform_submit_button_1:hover, input#gform_submit_button_2:hover, input#gform_submit_button_3:hover, input#gform_submit_button_4:hover {
+    background-color: #a51c20;
+}
+
+div#gform_confirmation_message_1, div#gform_confirmation_message_2, div#gform_confirmation_message_3, div#gform_confirmation_message_4 {
+    background-color: #f1fbf1;
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid #bddfbd;
+    font-size: 19px;
+    line-height: 28px;
+}
+
+.gpls-limit-message {
+    background-color: #fbf1f1;
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid #dfbfbd;
+    font-size: 19px;
+    line-height: 28px;
+}
+</style>
 </head>
 
-<body>
-    <div class="min-h-screen flex flex-col bg-gray-100">
-        <div x-data="{ isSearchOpen: false }">
-    <div class="sticky top-0 z-50">
-        <header x-data="{ isOpenMobileMenu: false }" class="bg-white">
-            <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
-                <div class="flex lg:flex-1">
-                    <a href="/" class="-m-1.5 p-1.5">
-                        <span class="sr-only">Materia Medica Batu</span>
-                        <img class="h-8 w-auto" src="https://materiamedicabatu.jatimprov.go.id/images/logo_with_text.png"
-                            alt="Materia Medica Batu">
-                    </a>
-                </div>
-                <div class="flex lg:hidden">
-                    <button x-on:click="isOpenMobileMenu = true" type="button"
-                        class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700">
-                        <span class="sr-only">Open main menu</span>
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
-                            aria-hidden="true">
-                            <path stroke-linecap="round" stroke-linejoin="round"
-                                d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-                        </svg>
-                    </button>
-                </div>
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-10 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-10">
 
-                
-                <div class="hidden lg:flex lg:gap-x-12">
-                                                            <a href="/" class="text-sm font-semibold leading-6 text-gray-900">Beranda</a>
-                                                                                <div x-data="{ isOpen: false }" class="relative inline-block text-left">
-                        <button x-on:click="isOpen = ! isOpen" type="button"
-                            class="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900"
-                            aria-expanded="false">
-                            Profil
-                            <svg class="h-5 w-5 flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true">
-                                <path fill-rule="evenodd"
-                                    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                    clip-rule="evenodd" />
-                            </svg>
-                        </button>
+    
+            <a class="skip-link screen-reader-text" href="#content">
+            Skip to content     </a>
+    
+    
+    <div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+        <style>.elementor-735 .elementor-element.elementor-element-32d83a1{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-735 .elementor-element.elementor-element-32d83a1:not(.elementor-motion-effects-element-type-background), .elementor-735 .elementor-element.elementor-element-32d83a1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-6776fa8{--display:flex;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-735 .elementor-element.elementor-element-b2fdd2f{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-item > .elementor-icon-list-text, .elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-item > a{font-size:14px;}.elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-735 .elementor-element.elementor-element-26544aa{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-735 .elementor-element.elementor-element-8790a46{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-735 .elementor-element.elementor-element-da11cfe{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-735 .elementor-element.elementor-element-6a06922{text-align:start;}.elementor-735 .elementor-element.elementor-element-6a06922 img{width:120px;}.elementor-735 .elementor-element.elementor-element-51db761{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--align-items:center;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-menu-container{height:30px;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a{font-family:var( --e-global-typography-9c7d161-font-family ), Sans-serif;font-size:var( --e-global-typography-9c7d161-font-size );font-weight:var( --e-global-typography-9c7d161-font-weight );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );color:var( --e-global-color-secondary );padding:0px 15px 0px 15px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:hover{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:focus{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:active{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li:hover > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li:hover > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:hover .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:focus .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:active .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-item > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-ancestor > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-ancestor > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a .elementskit-submenu-indicator{color:#101010;fill:#101010;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a .ekit-submenu-indicator-icon{color:#101010;fill:#101010;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li > a{padding:15px 15px 15px 15px;color:#000000;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li > a:hover{color:#707070;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li > a:focus{color:#707070;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li > a:active{color:#707070;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li:hover > a{color:#707070;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li.current-menu-item > a{color:#707070 !important;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-submenu-panel{padding:15px 0px 15px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel{border-radius:0px 0px 0px 0px;min-width:220px;}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger{float:right;}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger .elementskit-menu-hamburger-icon{background-color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger > .ekit-menu-icon{color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger:hover .elementskit-menu-hamburger-icon{background-color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger:hover > .ekit-menu-icon{color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-close{border-style:none;color:var( --e-global-color-ac8b74f );}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-close:hover{border-style:none;color:var( --e-global-color-ac8b74f );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-menu-container{height:30px;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a{font-family:var( --e-global-typography-9c7d161-font-family ), Sans-serif;font-size:var( --e-global-typography-9c7d161-font-size );font-weight:var( --e-global-typography-9c7d161-font-weight );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );color:var( --e-global-color-secondary );padding:0px 15px 0px 15px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:hover{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:focus{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:active{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li:hover > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li:hover > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:hover .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:focus .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:active .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-item > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-ancestor > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-ancestor > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a .elementskit-submenu-indicator{color:#101010;fill:#101010;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a .ekit-submenu-indicator-icon{color:#101010;fill:#101010;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li > a{padding:15px 15px 15px 15px;color:#000000;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li > a:hover{color:#707070;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li > a:focus{color:#707070;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li > a:active{color:#707070;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li:hover > a{color:#707070;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li.current-menu-item > a{color:#707070 !important;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-submenu-panel{padding:15px 0px 15px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel{border-radius:0px 0px 0px 0px;min-width:220px;}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger{float:right;}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger .elementskit-menu-hamburger-icon{background-color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger > .ekit-menu-icon{color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger:hover .elementskit-menu-hamburger-icon{background-color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger:hover > .ekit-menu-icon{color:var( --e-global-color-primary );}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-close{border-style:none;color:var( --e-global-color-ac8b74f );}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-close:hover{border-style:none;color:var( --e-global-color-ac8b74f );}@media(max-width:1024px){.elementor-735 .elementor-element.elementor-element-51db761{--justify-content:flex-end;}.elementor-735 .elementor-element.elementor-element-574b73f > .elementor-widget-container{margin:0px 0px -15px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-nav-identity-panel{padding:10px 0px 10px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-menu-container{max-width:350px;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a{font-size:var( --e-global-typography-9c7d161-font-size );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );color:var( --e-global-color-secondary );padding:10px 15px 10px 15px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:hover{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:focus{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:active{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li:hover > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li:hover > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:hover .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:focus .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a:active .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-item > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-ancestor > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li.current-menu-ancestor > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel > li > a{padding:15px 15px 15px 15px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav .elementskit-submenu-panel{border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-hamburger{padding:8px 8px 8px 8px;width:45px;border-radius:3px;}.elementor-735 .elementor-element.elementor-element-574b73f button.elementskit-menu-close{padding:8px 8px 8px 8px;margin:12px 12px 12px 12px;width:45px;border-radius:3px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-nav-logo > img{max-width:160px;max-height:60px;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-nav-logo{margin:5px 0px 5px 0px;padding:5px 5px 5px 5px;}.elementor-735 .elementor-element.elementor-element-c89b048 > .elementor-widget-container{margin:0px 0px -15px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-nav-identity-panel{padding:10px 0px 10px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-menu-container{max-width:350px;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a{font-size:var( --e-global-typography-9c7d161-font-size );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );color:var( --e-global-color-secondary );padding:10px 15px 10px 15px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:hover{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:focus{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:active{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li:hover > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li:hover > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:hover .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:focus .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a:active .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-item > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-ancestor > a{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li.current-menu-ancestor > a .elementskit-submenu-indicator{color:var( --e-global-color-secondary );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel > li > a{padding:15px 15px 15px 15px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav .elementskit-submenu-panel{border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-hamburger{padding:8px 8px 8px 8px;width:45px;border-radius:3px;}.elementor-735 .elementor-element.elementor-element-c89b048 button.elementskit-menu-close{padding:8px 8px 8px 8px;margin:12px 12px 12px 12px;width:45px;border-radius:3px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-nav-logo > img{max-width:160px;max-height:60px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-nav-logo{margin:5px 0px 5px 0px;padding:5px 5px 5px 5px;}}@media(max-width:767px){.elementor-735 .elementor-element.elementor-element-32d83a1{--flex-wrap:nowrap;}.elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-item > .elementor-icon-list-text, .elementor-735 .elementor-element.elementor-element-b2fdd2f .elementor-icon-list-item > a{font-size:12px;}.elementor-735 .elementor-element.elementor-element-26544aa{--gap:5px 5px;--row-gap:5px;--column-gap:5px;--flex-wrap:nowrap;}.elementor-735 .elementor-element.elementor-element-0c2bb7a img{width:60px;}.elementor-735 .elementor-element.elementor-element-3b46ba3 img{width:60px;}.elementor-735 .elementor-element.elementor-element-0ad60ef img{width:60px;}.elementor-735 .elementor-element.elementor-element-da11cfe{--width:50%;}.elementor-735 .elementor-element.elementor-element-51db761{--width:50%;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-navbar-nav > li > a{font-size:var( --e-global-typography-9c7d161-font-size );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );}.elementor-735 .elementor-element.elementor-element-574b73f .elementskit-nav-logo > img{max-width:120px;max-height:50px;}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-navbar-nav > li > a{font-size:var( --e-global-typography-9c7d161-font-size );line-height:var( --e-global-typography-9c7d161-line-height );letter-spacing:var( --e-global-typography-9c7d161-letter-spacing );}.elementor-735 .elementor-element.elementor-element-c89b048 .elementskit-nav-logo > img{max-width:120px;max-height:50px;}}@media(min-width:768px){.elementor-735 .elementor-element.elementor-element-da11cfe{--width:50%;}}</style>     <div data-elementor-type="wp-post" data-elementor-id="735" class="elementor elementor-735" data-elementor-post-type="elementskit_template">
+                <div class="elementor-element elementor-element-32d83a1 e-flex e-con-boxed e-con e-parent" data-id="32d83a1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-6776fa8 e-con-full e-flex e-con e-child" data-id="6776fa8" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-b2fdd2f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b2fdd2f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                            <a href="mailto:support@tangereapp.com">
 
-                        <div x-show="isOpen" @click.outside="isOpen = false"
-                            class="absolute z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
-                            role="menu" aria-orientation="vertical" aria-labelledby="menu-button" tabindex="-1"
-                            x-transition:enter="transition ease-out duration-200"
-                            x-transition:enter-start="opacity-0 translate-y-1"
-                            x-transition:enter-end="opacity-100 translate-y-0"
-                            x-transition:leave="transition ease-in duration-1500"
-                            x-transition:leave-start="opacity-100 translate-y-0"
-                            x-transition:leave-end="opacity-0 translate-y-1">
-                            <div class="py-1" role="none">
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/history"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Sejarah</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/organizational-structure"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Struktur Organisasi</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/task"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Tupoksi</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/roadmap"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Roadmap</a>
-                                                            </div>
-                        </div>
-                    </div>
-                                                                                <div @click.outside="isOpen = false" x-data="{ isOpen: false }" class="relative">
-                        <button x-on:click="isOpen = ! isOpen" type="button"
-                            class="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900"
-                            aria-expanded="false">
-                            Layanan
-                            <svg class="h-5 w-5 flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true">
-                                <path fill-rule="evenodd"
-                                    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                    clip-rule="evenodd" />
-                            </svg>
-                        </button>
-
-                        <div x-show="isOpen" x-transition:enter="transition ease-out duration-200"
-                            x-transition:enter-start="opacity-0 translate-y-1"
-                            x-transition:enter-end="opacity-100 translate-y-0"
-                            x-transition:leave="transition ease-in duration-1500"
-                            x-transition:leave-start="opacity-100 translate-y-0"
-                            x-transition:leave-end="opacity-0 translate-y-1"
-                            class="absolute left-1/2 z-10 mt-5 flex w-screen max-w-max -translate-x-1/2 px-4">
-                            <div
-                                class="w-screen max-w-4xl flex-auto overflow-hidden rounded-xl bg-white text-sm leading-6 shadow-lg ring-1 ring-gray-900/5">
-                                <div class="p-2 grid grid-cols-3 gap-2">
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-fitokimia-dan-instrumentasi"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMNAPADM5N6S9X1Q8W75G8.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Fitokimia dan Instrumentasi
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mutu"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNVDDWPJ7VH922ZXTKT78R.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Mutu
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mikrobiologi"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNX9QF0R9911HKZGD29R7N.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Mikrobiologi
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/unit-pengolahan-pasca-panen"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNMV4HR9Q8E3HG5ZZWAFS2.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Unit Pengolahan Pasca Panen
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-galenika"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSP6WC87CZAPJB4TG9CT7MB.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Galenika
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-atsiri"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNYFBT8BCKEZ9ZB5S31A4F.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Atsiri
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/kunjungan-edukasi-tanaman-obat-kelompok"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNB2FTWR7E7R5MGP1JY0XW.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Kunjungan Edukasi 
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/pkl-magang"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSP7ZDDMJTGGAB8BVP7JEJD.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                PKL / Magang
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/identifikasi-tanaman-obat-determinasi"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNP3R8QAN4WA210ABT2EC6.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Identifikasi Tanaman Obat (Determinasi)
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/griya-sehat"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNE2H4H5GJYJ17ZVX8P465.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Griya Sehat
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/herbalmart"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMWQ1HZTQFHRV1WHDJDSVB.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                HerbalMart
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/sewa-fasilitas"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMSE5PBCHEYX6TRKDR150C.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Sewa Fasilitas
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/workshop"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSN9E62DSM4AAS873SSDV3C.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Workshop
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                        <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-lingkungan-dan-pangan"
-                                        class="group relative flex items-center gap-x-3 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 overflow-hidden bg-gray-50">
-                                        <div
-                                            class="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-white group-hover:bg-primary">
-                                                                                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSN3CMMSGED4KERP8N2QND5.png"
-                                                class="object-cover w-full h-full rounded-lg">
-                                                                                    </div>
-                                        <div>
-                                            <div
-                                                class="block font-semibold text-gray-900 group-hover:text-primary group-hover:font-bold">
-                                                Laboratorium Lingkungan dan Pangan
-                                            </div>
-                                        </div>
-                                    </a>
-                                                                    </div>
-                            </div>
-                        </div>
-                    </div>
-                                                                                <div x-data="{ isOpen: false }" class="relative inline-block text-left">
-                        <button x-on:click="isOpen = ! isOpen" type="button"
-                            class="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900"
-                            aria-expanded="false">
-                            Informasi Publik
-                            <svg class="h-5 w-5 flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true">
-                                <path fill-rule="evenodd"
-                                    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                    clip-rule="evenodd" />
-                            </svg>
-                        </button>
-
-                        <div x-show="isOpen" @click.outside="isOpen = false"
-                            class="absolute z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
-                            role="menu" aria-orientation="vertical" aria-labelledby="menu-button" tabindex="-1"
-                            x-transition:enter="transition ease-out duration-200"
-                            x-transition:enter-start="opacity-0 translate-y-1"
-                            x-transition:enter-end="opacity-100 translate-y-0"
-                            x-transition:leave="transition ease-in duration-1500"
-                            x-transition:leave-start="opacity-100 translate-y-0"
-                            x-transition:leave-end="opacity-0 translate-y-1">
-                            <div class="py-1" role="none">
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/leaflets"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Leaflet</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/posters"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Poster</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/videos"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Video</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Berita</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/articles"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Artikel</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/ebooks"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Ebook</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/regulations"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Peraturan</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/galleries"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Galeri</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/skm"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Survei Kepuasan Masyarakat</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/spak"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Survei Persepsi Anti Korupsi</a>
-                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/integrity-zones"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-primary hover:font-semibold m-2 rounded-md"
-                                    role="menuitem" tabindex="-1" id="menu-item-0">Zona Integritas</a>
-                                                            </div>
-                        </div>
-                    </div>
-                                                                                <a href="https://ppid.materiamedicabatu.jatimprov.go.id" class="text-sm font-semibold leading-6 text-gray-900">PPID</a>
-                                                        </div>
-                <div class="hidden lg:flex lg:flex-1 lg:justify-end gap-4">
-                    <button x-on:click="isSearchOpen = true">
-                        <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd"/>
-</svg>                    </button>
-                    <a href="https://materiamedicabatu.jatimprov.go.id/customer"
-                        class="flex items-center gap-1 text-sm font-semibold leading-6 text-white bg-secondary p-2 rounded-md">
-                        <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 9V5.25A2.25 2.25 0 0 1 10.5 3h6a2.25 2.25 0 0 1 2.25 2.25v13.5A2.25 2.25 0 0 1 16.5 21h-6a2.25 2.25 0 0 1-2.25-2.25V15M12 9l3 3m0 0-3 3m3-3H2.25"/>
-</svg>                                                Masuk
+                                            <span class="elementor-icon-list-text">support@tangereapp.com</span>
                                             </a>
+                                    </li>
+                        </ul>
+                        </div>
                 </div>
-            </nav>
-
-            
-            <div x-show="isOpenMobileMenu" x-transition class="lg:hidden" role="dialog" aria-modal="true">
-                
-                <div class="fixed inset-0 z-20"></div>
-                <div
-                    class="fixed inset-y-0 right-0 z-20 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
-                    <div class="flex items-center justify-between">
-                        <a href="#" class="-m-1.5 p-1.5">
-                            <span class="sr-only">Materia Medica Batu</span>
-                            <img class="h-8 w-auto" src="https://materiamedicabatu.jatimprov.go.id/images/logo_with_text.png"
-                                alt="Materia Medica Batu">
-                        </a>
-                        <button x-on:click="isOpenMobileMenu = false" type="button"
-                            class="-m-2.5 rounded-md p-2.5 text-gray-700">
-                            <span class="sr-only">Close menu</span>
-                            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                                stroke="currentColor" aria-hidden="true">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                            </svg>
-                        </button>
+                </div>
+        <div class="elementor-element elementor-element-26544aa e-con-full e-flex e-con e-child" data-id="26544aa" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-0c2bb7a elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="0c2bb7a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                                <a href="https://apps.apple.com/us/app/tangere-pinoy-survey-w-prizes/id1448653326">
+                            <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/iAppstore.png" class="attachment-large size-large wp-image-1834" alt="" />                              </a>
+                                                            </div>
+                </div>
+                <div class="elementor-element elementor-element-3b46ba3 elementor-widget elementor-widget-image" data-id="3b46ba3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                                <a href="https://play.google.com/store/apps/details?id=mx.github.martin.tangere&#038;hl=en&#038;gl=US&#038;pli=1">
+                            <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/GooglePlay.png" class="attachment-large size-large wp-image-1832" alt="" />                             </a>
+                                                            </div>
+                </div>
+                <div class="elementor-element elementor-element-0ad60ef elementor-widget elementor-widget-image" data-id="0ad60ef" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                                <a href="https://appgallery.huawei.com/app/C107877981">
+                            <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/HAppgallery.png" class="attachment-large size-large wp-image-1833" alt="" />                                </a>
+                                                            </div>
+                </div>
+                </div>
                     </div>
-                    <div class="mt-6 flow-root">
-                        <div class="-my-6 divide-y divide-gray-500/10">
-                            <div class="space-y-2 py-6">
-                                                                                                <a href="/"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Beranda</a>
-                                                                                                                                <div x-data="{ isOpen: false }" class="-mx-3">
-                                    <button x-on:click="isOpen = ! isOpen" type="button"
-                                        class="flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                                        aria-controls="disclosure-1" aria-expanded="false">
-                                        Profil
-                                        <svg :class="isOpen ? 'rotate-180' : ''" class="h-5 w-5 flex-none"
-                                            viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                            <path fill-rule="evenodd"
-                                                d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                                clip-rule="evenodd" />
-                                        </svg>
-                                    </button>
-                                    
-                                    <div x-show="isOpen" x-transition:enter="transition ease-out duration-200"
-                                        x-transition:enter-start="opacity-0 translate-y-1"
-                                        x-transition:enter-end="opacity-100 translate-y-0"
-                                        x-transition:leave="transition ease-in duration-1500"
-                                        x-transition:leave-start="opacity-100 translate-y-0"
-                                        x-transition:leave-end="opacity-0 translate-y-1" class="mt-2 space-y-2"
-                                        id="disclosure-1">
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/history"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Sejarah</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/organizational-structure"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Struktur Organisasi</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/task"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Tupoksi</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/profile/roadmap"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Roadmap</a>
-                                                                            </div>
+                </div>
+        <div class="elementor-element elementor-element-8790a46 e-flex e-con-boxed e-con e-parent" data-id="8790a46" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-da11cfe e-con-full e-flex e-con e-child" data-id="da11cfe" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-6a06922 elementor-widget elementor-widget-image" data-id="6a06922" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                                <a href="https://tangereapp.com">
+                            <img loading="lazy" width="181" height="58" src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1-1-1.png" class="attachment-large size-large wp-image-4609" alt="" />                              </a>
+                                                            </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-51db761 e-con-full e-flex e-con e-child" data-id="51db761" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-574b73f elementor-hidden-mobile elementor-widget elementor-widget-ekit-nav-menu" data-id="574b73f" data-element_type="widget" data-e-type="widget" data-widget_type="ekit-nav-menu.default">
+                <div class="elementor-widget-container">
+                            <nav class="ekit-wid-con ekit_menu_responsive_tablet"
+            data-hamburger-icon=""
+            data-hamburger-icon-type="icon"
+            data-responsive-breakpoint="1024">
+                        <button class="elementskit-menu-hamburger elementskit-menu-toggler"  type="button" aria-label="hamburger-icon">
+                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
+                            </button>
+            <div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover"><ul id="menu-menu" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon"><li id="menu-item-2429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/about/" class="ekit-menu-nav-link">ABOUT US</a></li>
+<li id="menu-item-4201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4201 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="http://localhost/tangereapp/qualitative-study" class="ekit-menu-nav-link">SERVICES</a></li>
+<li id="menu-item-746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-746 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/tangereapp/about/#testimonial" class="ekit-menu-nav-link">TESTIMONIALS</a></li>
+<li id="menu-item-2430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2430 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/news/" class="ekit-menu-nav-link">NEWS</a></li>
+<li id="menu-item-748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/tangereapp/#contact" class="ekit-menu-nav-link">CONTACT</a></li>
+</ul><div class="elementskit-nav-identity-panel"><a class="elementskit-nav-logo" href="https://tangereapp.com" target="" rel=""><img src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" title="LOGO (1)" alt="LOGO (1)" decoding="async" /></a><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button></div></div>
+            <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>        </nav>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-c89b048 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-ekit-nav-menu" data-id="c89b048" data-element_type="widget" data-e-type="widget" data-widget_type="ekit-nav-menu.default">
+                <div class="elementor-widget-container">
+                            <nav class="ekit-wid-con ekit_menu_responsive_tablet"
+            data-hamburger-icon=""
+            data-hamburger-icon-type="icon"
+            data-responsive-breakpoint="1024">
+                        <button class="elementskit-menu-hamburger elementskit-menu-toggler"  type="button" aria-label="hamburger-icon">
+                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
+                            </button>
+            <div id="ekit-megamenu-menu-mobile" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover"><ul id="menu-menu-mobile" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon"><li id="menu-item-3773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/about/" class="ekit-menu-nav-link">ABOUT</a></li>
+<li id="menu-item-4200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4200 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/quantitative-study/" class="ekit-menu-nav-link">SERVICES</a></li>
+<li id="menu-item-3776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3776 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/about/#testimonial" class="ekit-menu-nav-link">TESTIMONIALS</a></li>
+<li id="menu-item-3774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3774 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/news/" class="ekit-menu-nav-link">NEWS</a></li>
+<li id="menu-item-3772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/case-studies/" class="ekit-menu-nav-link">CASE STUDIES</a></li>
+<li id="menu-item-3777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3777 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/home/#contact" class="ekit-menu-nav-link">CONTACT</a></li>
+</ul><div class="elementskit-nav-identity-panel"><a class="elementskit-nav-logo" href="https://tangereapp.com" target="" rel=""><img src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" title="LOGO (1)" alt="LOGO (1)" decoding="async" /></a><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button></div></div>
+            <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>        </nav>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-1a98c89 elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="1a98c89" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="https://tangereapp.com/case-studies/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">Case Studies</span>
+                    </span>
+                    </a>
+                </div>
                                 </div>
-                                                                                                                                <div x-data="{ isOpen: false }" class="-mx-3">
-                                    <button x-on:click="isOpen = ! isOpen" type="button"
-                                        class="flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                                        aria-controls="disclosure-1" aria-expanded="false">
-                                        Layanan
-                                        <svg :class="isOpen ? 'rotate-180' : ''" class="h-5 w-5 flex-none"
-                                            viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                            <path fill-rule="evenodd"
-                                                d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                                clip-rule="evenodd" />
-                                        </svg>
-                                    </button>
-                                    
-                                    <div x-show="isOpen" x-transition:enter="transition ease-out duration-200"
-                                        x-transition:enter-start="opacity-0 translate-y-1"
-                                        x-transition:enter-end="opacity-100 translate-y-0"
-                                        x-transition:leave="transition ease-in duration-1500"
-                                        x-transition:leave-start="opacity-100 translate-y-0"
-                                        x-transition:leave-end="opacity-0 translate-y-1" class="mt-2 space-y-2"
-                                        id="disclosure-1">
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-fitokimia-dan-instrumentasi"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Fitokimia dan Instrumentasi</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mutu"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Mutu</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mikrobiologi"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Mikrobiologi</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/unit-pengolahan-pasca-panen"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Unit Pengolahan Pasca Panen</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-galenika"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Galenika</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-atsiri"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Atsiri</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/kunjungan-edukasi-tanaman-obat-kelompok"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Kunjungan Edukasi </a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/pkl-magang"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">PKL / Magang</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/identifikasi-tanaman-obat-determinasi"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Identifikasi Tanaman Obat (Determinasi)</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/griya-sehat"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Griya Sehat</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/herbalmart"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">HerbalMart</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/sewa-fasilitas"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Sewa Fasilitas</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/workshop"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Workshop</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-lingkungan-dan-pangan"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Laboratorium Lingkungan dan Pangan</a>
-                                                                            </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+            <div data-elementor-type="wp-page" data-elementor-id="10" class="elementor elementor-10" data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-cda9fae e-con-full e-flex e-con e-parent" data-id="cda9fae" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-362d70b   elementor-arrows-position-inside elementor-widget elementor-widget-n-carousel" data-id="362d70b" data-element_type="widget" data-e-type="widget" id="" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;1037b81&quot;},{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;da7dec9&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;a5fd4e4&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;ddbac70&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;arrows&quot;:&quot;yes&quot;,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+                <div class="elementor-widget-container">
+                            <div class="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+            <div class="swiper-wrapper" aria-live="off">
+                                        <div class="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 of 4">
+                            <div class="elementor-element elementor-element-5719764 e-flex e-con-boxed e-con e-child" data-id="5719764" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-0dec6bd e-flex e-con-boxed elementor-invisible e-con e-child" data-id="0dec6bd" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-238d9b3 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="238d9b3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h1 class="elementor-heading-title elementor-size-default">Instant Insights, <br>Timeless Impact</h1>               </div>
+                </div>
+                <div class="elementor-element elementor-element-d6cdaba elementor-widget elementor-widget-text-editor" data-id="d6cdaba" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Gain instant insights that deliver lasting and</p><p>impactful results for your business</p>                             </div>
+                </div>
+        <div class="elementor-element elementor-element-cbfc366 e-con-full e-flex e-con e-child" data-id="cbfc366" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-c63ea2c elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="c63ea2c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
                                 </div>
-                                                                                                                                <div x-data="{ isOpen: false }" class="-mx-3">
-                                    <button x-on:click="isOpen = ! isOpen" type="button"
-                                        class="flex w-full items-center justify-between rounded-lg py-2 pl-3 pr-3.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                                        aria-controls="disclosure-1" aria-expanded="false">
-                                        Informasi Publik
-                                        <svg :class="isOpen ? 'rotate-180' : ''" class="h-5 w-5 flex-none"
-                                            viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                            <path fill-rule="evenodd"
-                                                d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                                                clip-rule="evenodd" />
-                                        </svg>
-                                    </button>
-                                    
-                                    <div x-show="isOpen" x-transition:enter="transition ease-out duration-200"
-                                        x-transition:enter-start="opacity-0 translate-y-1"
-                                        x-transition:enter-end="opacity-100 translate-y-0"
-                                        x-transition:leave="transition ease-in duration-1500"
-                                        x-transition:leave-start="opacity-100 translate-y-0"
-                                        x-transition:leave-end="opacity-0 translate-y-1" class="mt-2 space-y-2"
-                                        id="disclosure-1">
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/leaflets"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Leaflet</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/posters"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Poster</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/videos"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Video</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Berita</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/articles"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Artikel</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/ebooks"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Ebook</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/regulations"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Peraturan</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/galleries"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Galeri</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/skm"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Survei Kepuasan Masyarakat</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/spak"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Survei Persepsi Anti Korupsi</a>
-                                                                                <a href="https://materiamedicabatu.jatimprov.go.id/public-information/integrity-zones"
-                                            class="block rounded-lg py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 hover:bg-gray-50">Zona Integritas</a>
-                                                                            </div>
+                </div>
+                <div class="elementor-element elementor-element-471fab5 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="471fab5" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">GET STARTED</span>
+                    </span>
+                    </a>
+                </div>
                                 </div>
-                                                                                                                                <a href="https://ppid.materiamedicabatu.jatimprov.go.id"
-                                    class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">PPID</a>
-                                                                                            </div>
-                            <div class="py-3 flex flex-col gap-2">
-                                <button x-on:click="isSearchOpen = false"
-                                    class="flex items-center gap-1 text-sm font-semibold px-3 leading-7 text-gray-900 hover:bg-gray-50 p-2 rounded-md">
-                                    <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd"/>
-</svg>                                    Pencarian
-                                </button>
-                                <a href="https://materiamedicabatu.jatimprov.go.id/customer"
-                                    class="flex items-center gap-1 text-sm font-semibold px-3 leading-7 text-white bg-secondary p-2 rounded-md">
-                                    <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 9V5.25A2.25 2.25 0 0 1 10.5 3h6a2.25 2.25 0 0 1 2.25 2.25v13.5A2.25 2.25 0 0 1 16.5 21h-6a2.25 2.25 0 0 1-2.25-2.25V15M12 9l3 3m0 0-3 3m3-3H2.25"/>
-</svg>                                                                        Masuk
-                                                                    </a>
-                            </div>
-                        </div>
+                </div>
+                </div>
                     </div>
                 </div>
-            </div>
-        </header>
-    </div>
-
-    <div x-show="isSearchOpen" class="fixed inset-0 bg-gray-800 bg-opacity-50 flex items-start justify-center z-50">
-        <div @click.away="isSearchOpen = false" class="bg-white rounded-lg shadow-lg max-w-2xl w-full m-4 p-4">
-            <div wire:snapshot="{&quot;data&quot;:{&quot;searchTerm&quot;:null,&quot;results&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;H1Cmk504ay3FbAsPfBav&quot;,&quot;name&quot;:&quot;global-search&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;a0020169732f53a1db65bf4520af1bdfda1583588c55567bc1b9078f11a209f7&quot;}" wire:effects="[]" wire:id="H1Cmk504ay3FbAsPfBav">
-    <div class="flex flex-col gap-4">
-        <div class="relative">
-            <label for="Search" class="sr-only">Search</label>
-
-            <input type="text" wire:model.live="searchTerm" placeholder="Search for..." autofocus
-                class="w-full rounded-md border-gray-200 py-2.5 pe-10 shadow-sm sm:text-sm" />
-
-            <span class="absolute inset-y-0 end-0 grid w-10 place-content-center">
-                <button type="button" class="text-gray-600 hover:text-gray-700">
-                    <span class="sr-only">Search</span>
-
-                    <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd"/>
-</svg>                </button>
-            </span>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 of 4">
+                            <div class="elementor-element elementor-element-a606448 e-flex e-con-boxed e-con e-child" data-id="a606448" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-9308278 e-flex e-con-boxed elementor-invisible e-con e-child" data-id="9308278" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-63d20ae elementor-widget-mobile__width-initial e-transform elementor-widget elementor-widget-heading" data-id="63d20ae" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h1 class="elementor-heading-title elementor-size-default">Affordable, Accurate and Reliable Market Research</h1>               </div>
+                </div>
+                <div class="elementor-element elementor-element-0e9fb73 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="0e9fb73" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Gain valuable insights with our easy-to-use platform</p><p>for conducting accurate and reliable market research</p>                              </div>
+                </div>
+        <div class="elementor-element elementor-element-1843296 e-con-full e-flex e-con e-child" data-id="1843296" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-aa76468 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="aa76468" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                <div class="elementor-element elementor-element-282f2a8 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="282f2a8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">GET STARTED</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 of 4">
+                            <div class="elementor-element elementor-element-ea58da4 e-flex e-con-boxed e-con e-child" data-id="ea58da4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-59d53fb e-flex e-con-boxed elementor-invisible e-con e-child" data-id="59d53fb" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-b6f90ad elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="b6f90ad" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h1 class="elementor-heading-title elementor-size-default">Community<br>
+Driven</h1>             </div>
+                </div>
+                <div class="elementor-element elementor-element-14fd41d elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="14fd41d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Access unique and valuable insights generated by a passionate community.</p>                             </div>
+                </div>
+        <div class="elementor-element elementor-element-cd575c8 e-con-full e-flex e-con e-child" data-id="cd575c8" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-c79763f elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="c79763f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                <div class="elementor-element elementor-element-438d962 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="438d962" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">GET STARTED</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 of 4">
+                            <div class="elementor-element elementor-element-83e2585 e-flex e-con-boxed e-con e-child" data-id="83e2585" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-99d3517 e-con-full e-flex elementor-invisible e-con e-child" data-id="99d3517" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                <div class="elementor-element elementor-element-62103b1 elementor-widget-mobile__width-initial e-transform elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="62103b1" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h1 class="elementor-heading-title elementor-size-default">Bayanihan Studies</h1>               </div>
+                </div>
+                <div class="elementor-element elementor-element-897c361 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="897c361" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Empower your community with free access to</p><p>valuable insights through our Bayanihan Studies</p>                             </div>
+                </div>
+        <div class="elementor-element elementor-element-aff5fc9 e-con-full e-flex e-con e-child" data-id="aff5fc9" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-7bdd3b2 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="7bdd3b2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                <div class="elementor-element elementor-element-58aea27 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="58aea27" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">GET STARTED</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                </div>
         </div>
+                    <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous">
+                <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>           </div>
+            <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next">
+                <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>          </div>
+                        </div>
+                </div>
+        <div class="elementor-element elementor-element-d791ddb e-con-full elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-tablet e-flex e-con e-child" data-id="d791ddb" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-51dcd4d elementor-widget elementor-widget-image-carousel" data-id="51dcd4d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;slides_to_show_tablet&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+            <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1.jpg" alt="1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/2.jpg" alt="2" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11.jpg" alt="Bayanihan Studies (1)(1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2025/05/haynako.png" alt="haynako" /></figure></div>          </div>
+                            
+                                    </div>
+                        </div>
+                </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-fa8bfed e-flex e-con-boxed e-con e-parent" data-id="fa8bfed" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-26d73f5 e-con-full e-flex elementor-invisible e-con e-child" data-id="26d73f5" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+                <div class="elementor-element elementor-element-537f483 elementor-widget elementor-widget-image" data-id="537f483" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="1504" height="345" src="https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a.png" class="attachment-full size-full wp-image-4160" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a.png 1504w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-300x69.png 300w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-1024x235.png 1024w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-768x176.png 768w" sizes="(max-width: 1504px) 100vw, 1504px" />                                                            </div>
+                </div>
+                <div class="elementor-element elementor-element-ede9647 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="ede9647" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h2 class="elementor-heading-title elementor-size-default">Philippines Leading Mobile Market Research Platform</h2>             </div>
+                </div>
+                <div class="elementor-element elementor-element-b834a19 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="b834a19" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">Tangere is one of the Philippines top market research platforms, delivering accurate, real-time insights to help businesses make smarter decisions. With over 1 million panelists nationwide, we provide scalable, affordable, and community-driven research solutions.</p>                               </div>
+                </div>
+                <div class="elementor-element elementor-element-5ebda12 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="5ebda12" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-d6650a3 e-con-full e-flex e-con e-child" data-id="d6650a3" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-7b16b6d elementor-position-left elementor-vertical-align-middle elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="7b16b6d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Market-Research-1-r0brqifmfugskbxez9jvqe027kmhc7fmwth67p1hpk.png" title="Market Research" alt="Market Research" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Consumer and Market Understanding</h3><p class="elementor-image-box-description">Market &amp; UAI Studies, Dipstick, Baseline Study, Mystery Shopper Studies</p></div></div>                </div>
+                </div>
+                <div class="elementor-element elementor-element-d43e050 elementor-position-left elementor-vertical-align-middle elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="d43e050" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Brand-Health-1-r0brqdqfhoacya48qpiqvx6r8n9n9pwz867qtb8gko.png" title="Brand Health" alt="Brand Health" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Brand Performance Monitoring</h3><p class="elementor-image-box-description">Brand Health Tracking, Public Opinion Poll Survey, Customer Satisfaction Survey, Net Promoter’s Score</p></div></div>                </div>
+                </div>
+                <div class="elementor-element elementor-element-c6ae09f elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="c6ae09f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Product-Advertising-r0brqfm3vccxli1ifqc00wpoff0dp44fwfiprv5o88.png" title="Product &amp; Advertising" alt="Product &amp; Advertising" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Product and Campaign Effectiveness</h3><p class="elementor-image-box-description">Product, Concept, &amp; Ad Tests, Pre &amp; Post Launch Evaluation, Ad Standards Council Claim Substantiations</p></div></div>              </div>
+                </div>
+                <div class="elementor-element elementor-element-23afba3 elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="23afba3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Advanced-Analytics-1-r0brqhhs90fi8pys4r595w8lm6r44ibwkotoqf2vvs.png" title="Advanced Analytics" alt="Advanced Analytics" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Strategic Insights and Analytics</h3><p class="elementor-image-box-description">Focus Group Discussion, In-Depth Interviews, Key Informant Interviews, Location Analytics</p></div></div>              </div>
+                </div>
+                <div class="elementor-element elementor-element-08d878a elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image-box" data-id="08d878a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Qualitative-Insights-1-r0brqjdgmoi2vxw1tryiavrisyhujwjd8y4noz03jc.png" title="Qualitative Insights" alt="Qualitative Insights" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Qualitative Insights</h3><p class="elementor-image-box-description">Location Analytics</p></div></div>               </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+        <div class="elementor-element elementor-element-f771334 e-flex e-con-boxed e-con e-parent" data-id="f771334" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-4f84137 e-con-full e-flex e-con e-child" data-id="4f84137" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13a769c elementor-widget elementor-widget-image" data-id="13a769c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="575" height="816" src="https://tangereapp.com/wp-content/uploads/2026/05/Tangere-Martin-1-1.png" class="attachment-2048x2048 size-2048x2048 wp-image-4613" alt="" srcset="https://tangereapp.com/wp-content/uploads/2026/05/Tangere-Martin-1-1.png 575w, https://tangereapp.com/wp-content/uploads/2026/05/Tangere-Martin-1-1-211x300.png 211w" sizes="(max-width: 575px) 100vw, 575px" />                                                          </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-bf1f440 e-con-full e-flex e-con e-child" data-id="bf1f440" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-4cdff81 e-con-full e-flex e-con e-child" data-id="4cdff81" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-4ed48fa e-con-full e-flex elementor-invisible e-con e-child" data-id="4ed48fa" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:0}">
+                <div class="elementor-element elementor-element-0ef2f78 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0ef2f78" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="347" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789.png" class="attachment-full size-full wp-image-4549" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789.png 347w, https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789-300x160.png 300w" sizes="(max-width: 347px) 100vw, 347px" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-7c0ef73 elementor-widget elementor-widget-icon-box" data-id="7c0ef73" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-box-wrapper">
 
-            </div>
-</div>
-        </div>
-    </div>
-</div>
-
-        <div class="flex-grow">
             
-<div class="max-w-7xl mx-auto my-2 px-2 md:my-4 md:px-4 xl:px-0">
-    <div>
-    <div x-data="{ activeSlide: 1 }" id="default-carousel" class="relative w-full" data-carousel="slide">
+                        <div class="elementor-icon-box-content">
 
-        
-        <div class="relative overflow-hidden rounded-lg aspect-[5/2] bg-primary">
-                        <div x-show="activeSlide === 1" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/carousel-1.jpg" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
+                                    <h3 class="elementor-icon-box-title">
+                        <span  >
+                            Fast &amp; Reliable <br />Data                      </span>
+                    </h3>
+                
+                                    <p class="elementor-icon-box-description">
+                        Get survey results in <b> as little as 7 days  </B> —perfect for time-sensitive business decisions.                 </p>
                 
             </div>
-                        <div x-show="activeSlide === 2" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/01JE7X1G9ESYQ3XE4WTWPH3AHE.jpg" class="absolute w-full h-full object-contain"
-                    alt="Materia Medica">
-
-                
-            </div>
-                        <div x-show="activeSlide === 3" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/carousel-3.jpg" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 4" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0316-Slide2.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 5" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0408-Slide3.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 6" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0539-Slide5.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 7" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0609-Slide6.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 8" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0638-Slide7.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 9" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0744-Slide8.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 10" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0813-Slide9.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 11" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/0850-Slide10.JPG" class="absolute w-full h-full object-contain"
-                    alt="Selamat Datang di UPT Laboratorium Herbal Materia Medica Batu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 12" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/01JE7WZZ266CQWMA1X2N02JS1W.jpeg" class="absolute w-full h-full object-contain"
-                    alt="Event Bursa Jamu">
-
-                
-            </div>
-                        <div x-show="activeSlide === 13" x-transition:enter="transition ease-out duration-500"
-                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
-                x-transition:leave="transition ease-in duration-500" x-transition:leave-start="opacity-100"
-                x-transition:leave-end="opacity-0" data-carousel-item>
-                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/banners/01KNTNC9X8PBXPX9N5KEYW25AE.jpeg" class="absolute w-full h-full object-contain"
-                    alt="Survei Kepuasan Masyarakat Triwulan I 2026">
-
-                
-            </div>
-                    </div>
-
-        
-        
-
-        
-        <button type="button"
-            class="absolute top-0 start-0 z-10 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
-            data-carousel-prev x-on:click="activeSlide = activeSlide === 1 ? 13 : activeSlide - 1">
-            <span
-                class="inline-flex items-center justify-center w-10 h-10 rounded bg-white/30 group-hover:bg-white/50 group-focus:ring-1 group-focus:ring-white group-focus:outline-none">
-                <svg class="text-white/30 group-hover:text-primary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M11.78 5.22a.75.75 0 0 1 0 1.06L8.06 10l3.72 3.72a.75.75 0 1 1-1.06 1.06l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd"/>
-</svg>                <span class="sr-only">Previous</span>
-            </span>
-        </button>
-        <button type="button"
-            class="absolute top-0 end-0 z-10 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
-            data-carousel-next x-on:click="activeSlide = activeSlide === 13 ? 1 : activeSlide + 1">
-            <span
-                class="inline-flex items-center justify-center w-10 h-10 rounded bg-white/30 group-hover:bg-white/50 group-focus:ring-1 group-focus:ring-white group-focus:outline-none">
-                <svg class="text-white/30 group-hover:text-primary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"/>
-</svg>                <span class="sr-only">Next</span>
-            </span>
-        </button>
-    </div>
-
-</div></div>
-
-<div class="flex flex-col gap-8">
-    <div>
-    <div class="bg-primary mx-auto max-w-7xl px-6 lg:px-8 rounded-none xl:rounded-xl py-4">
-        <div class="mx-auto max-w-7xl lg:text-center">
-            
-            <h2 class="mt-2 text-2xl font-bold tracking-tight text-white">Layanan kami</h2>
-            
-        </div>
-        <div class="mx-auto mt-4 sm:mt-6 max-w-4xl lg:max-w-7xl">
-            <dl
-                class="grid max-w-xl grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:max-w-none lg:grid-cols-4 lg:gap-y-8">
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-fitokimia-dan-instrumentasi">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMNAPADM5N6S9X1Q8W75G8.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Fitokimia dan Instrumentasi</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mutu">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNVDDWPJ7VH922ZXTKT78R.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Mutu</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-mikrobiologi">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNX9QF0R9911HKZGD29R7N.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Mikrobiologi</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/unit-pengolahan-pasca-panen">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNMV4HR9Q8E3HG5ZZWAFS2.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Unit Pengolahan Pasca Panen</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-galenika">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSP6WC87CZAPJB4TG9CT7MB.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Galenika</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-atsiri">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNYFBT8BCKEZ9ZB5S31A4F.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Atsiri</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/kunjungan-edukasi-tanaman-obat-kelompok">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNB2FTWR7E7R5MGP1JY0XW.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Kunjungan Edukasi </span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/pkl-magang">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSP7ZDDMJTGGAB8BVP7JEJD.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">PKL / Magang</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/identifikasi-tanaman-obat-determinasi">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNP3R8QAN4WA210ABT2EC6.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Identifikasi Tanaman Obat (Determinasi)</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/griya-sehat">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSNE2H4H5GJYJ17ZVX8P465.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Griya Sehat</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/herbalmart">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMWQ1HZTQFHRV1WHDJDSVB.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">HerbalMart</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/sewa-fasilitas">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSMSE5PBCHEYX6TRKDR150C.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Sewa Fasilitas</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/workshop">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSN9E62DSM4AAS873SSDV3C.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Workshop</span>
-                        </dt>
-                    </a>
-                </div>
-                                <div class="relative pl-16">
-                    <a href="https://materiamedicabatu.jatimprov.go.id/services/laboratorium-lingkungan-dan-pangan">
-                        <dt class="text-base font-semibold leading-7 text-white">
-                            <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-white">
-                                                                <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/services/01KRSN3CMMSGED4KERP8N2QND5.png"
-                                    class="object-cover w-full h-full rounded-lg">
-                                                            </div>
-                            <span class="line-clamp-2 text-sm">Laboratorium Lingkungan dan Pangan</span>
-                        </dt>
-                    </a>
-                </div>
-                            </dl>
-        </div>
-        <div class="mx-auto max-w-2xl text-right lg:text-center mt-6">
-            <a href="https://materiamedicabatu.jatimprov.go.id/services"
-                class="group inline-flex items-center gap-1 text-white text-lg font-bold p-2 hover:underline">
-                Semua layanan
-                <span aria-hidden="true" class="block transition-all group-hover:ms-0.5 rtl:rotate-180">
-                    &rarr;
-                </span>
-            </a>
-        </div>
-    </div>
-</div>
-
-    <div class="mx-auto max-w-7xl px-8 xl:px-0">
-        <div class="mx-auto max-w-2xl lg:text-center">
-            <p class="mt-2 text-2xl font-bold tracking-tight text-primary">Informasi terbaru</p>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4 sm:mt-6">
-            <div>
-                <div>
-    <!-- LightWidget WIDGET -->
-    <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-    <iframe src="https://cdn.lightwidget.com/widgets/58fae8d43a7350fabf31065f104fcf08.html" scrolling="no"
-        allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-</div>            </div>
-            <div class="col-span-2">
-                <div>
-    <div class="mx-auto max-w-2xl lg:max-w-7xl">
-        <dl class="grid max-w-xl grid-cols-1 gap-2 lg:max-w-none lg:grid-cols-2">
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y1YN8BZDBK2N0EA8XSRBB8.jpg" alt="BAKTI SOSIAL (SOFT OPENING UPT LABORATORIUM HERBAL MATERIA MEDICA BATU – UNIT KERJA GADANG MALANG)"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/bakti-sosial-soft-opening-upt-laboratorium-herbal-materia-medica-batu-unit-kerja-gadang-malang"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">BAKTI SOSIAL (SOFT OPENING UPT LABORATORIUM HERBAL MATERIA MEDICA BATU – UNIT KERJA GADANG MALANG)</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="8 Okt 2021">8 Okt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    234
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y1S64NFCJ9AS0VHMZRKBAC.png" alt="Vaksinasi Covid-19 di UPT Laboratorium Herbal Materia Medica Batu"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/vaksinasi-covid-19-di-upt-laboratorium-herbal-materia-medica-batu"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">Vaksinasi Covid-19 di UPT Laboratorium Herbal Materia Medica Batu</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="24 Agt 2021">24 Agt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    168
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y1PFT34F560AX148PWK9ZX.png" alt="Liputan Acara “Laptop Si Unyil” Trans7"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/liputan-acara-laptop-si-unyil-trans7"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">Liputan Acara “Laptop Si Unyil” Trans7</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="24 Agt 2021">24 Agt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    239
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y1HR43XT6KJB0XN8TV83R9.png" alt="Kunjungan Wisata TOGA (SMK Norma Husada Nganjuk)"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/kunjungan-wisata-toga-smk-norma-husada-nganjuk"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">Kunjungan Wisata TOGA (SMK Norma Husada Nganjuk)</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="24 Agt 2021">24 Agt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    169
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y0JHZP6BRRWGWTP2TPQ9MV.png" alt="Kunjungan Wisata TOGA (Institut Teknologi, Sains, dan Kesehatan RS DR. Soepraoen Kesdam Malang)"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/kunjungan-wisata-toga-institut-teknologi-sains-dan-kesehatan-rs-dr-soepraoen-kesdam-malang"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">Kunjungan Wisata TOGA (Institut Teknologi, Sains, dan Kesehatan RS DR. Soepraoen Kesdam Malang)</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="24 Agt 2021">24 Agt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    197
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                        <article class="max-w-full p-1 rounded-lg border border-gray-100 bg-white shadow-sm">
-                <div class="flex gap-2">
-                    <div class="aspect-video w-24 md:w-32">
-                        <img src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/news/01J9Y0AYSFWPE4ZW48N4FJNA1P.png" alt="Bakti Sosial Griya Sehat Materia Medica di Kecamatan Turen Kabupaten Malang"
-                            class="object-cover rounded-md w-full h-full">
-                    </div>
-
-                    <div class="w-full flex flex-col justify-between">
-                        <div>
-                            <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news/bakti-sosial-griya-sehat-materia-medica-di-kecamatan-turen-kabupaten-malang"
-                                class="text-sm font-bold text-gray-700 hover:text-gray-600 hover:underline line-clamp-2"
-                                tabindex="0" role="link">Bakti Sosial Griya Sehat Materia Medica di Kecamatan Turen Kabupaten Malang</a>
-                        </div>
-
-                        <div class="flex items-center justify-between mt-4">
-                            <div class="flex items-center gap-2">
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"/>
-</svg>                                    <time datetime="24 Agt 2021">24 Agt
-                                        2021</time>
-                                </span>
-                                <span class="text-sm font-light text-gray-600 flex items-center gap-1">
-                                    <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 0 1 0-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178Z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"/>
-</svg>                                    176
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
-                    </dl>
-    </div>
-
-    <div class="mx-auto text-right mt-2">
-        <a href="https://materiamedicabatu.jatimprov.go.id/public-information/news"
-            class="group inline-flex items-center gap-1 text-primary text-lg font-bold p-2 hover:underline">
-            Berita lainnya
-            <span aria-hidden="true" class="block transition-all group-hover:ms-0.5 rtl:rotate-180">
-                &rarr;
-            </span>
-        </a>
-    </div>
-</div>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="mb-8">
-        <div>
-    <div class="py-4 mx-auto max-w-7xl px-8 xl:px-0">
-        <div class="mx-auto max-w-2xl lg:text-center">
-            <p class="mt-2 text-2xl font-bold tracking-tight text-primary">Mitra kami</p>
-        </div>
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <div
-                class="mx-auto mt-10 grid max-w-lg grid-cols-3 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-                                <a href="https://www.ub.ac.id">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JARFVF0HGBAQHF5KW9AF0D6Q.png" alt="Universitas Brawijaya" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Brawijaya</p>
-                    </div>
-                </a>
-                                <a href="https://unair.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JAW3CW4W3RPFYQ1YKTD2538F.png" alt="Universitas Airlangga" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Airlangga</p>
-                    </div>
-                </a>
-                                <a href="https://www.iik.ac.id/web.php?gad_source=1&amp;gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiYvJXBd2f-E020An5tx5J7UHkDSjGZGgpA3p64bl1uxowgqe-kdl-saAk4jEALw_wcB">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4BCYQBYQGRBCDHBPMK7VY7.png" alt="IIK Bhakti Wiyata" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">IIK Bhakti Wiyata</p>
-                    </div>
-                </a>
-                                <a href="https://um.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4BJKG30X6RAAJZYAPNMBYG.png" alt="Universitas Negeri Malang" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Negeri Malang</p>
-                    </div>
-                </a>
-                                <a href="https://uin-malang.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4BQVGJ1RNC231F2H5KY08J.png" alt="UIN Maulana Malik Ibrahim Malang" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">UIN Maulana Malik Ibrahim Malang</p>
-                    </div>
-                </a>
-                                <a href="https://www.unud.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4BTMAZBR5ZBYSPBGCTX6RC.png" alt="Universitas Udayana" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Udayana</p>
-                    </div>
-                </a>
-                                <a href="https://uns.ac.id/id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4C281Y2EN60XBYA3WP1XPP.png" alt="Universitas Sebelas Maret Surakarta" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Sebelas Maret Surakarta</p>
-                    </div>
-                </a>
-                                <a href="https://www.poltekkes-solo.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4CDA9YHC6HG0F32EBYSA4S.png" alt="Poltekkes Kemenkes Surakarta" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Poltekkes Kemenkes Surakarta</p>
-                    </div>
-                </a>
-                                <a href="https://unsoed.ac.id/en/home/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4CE20K49AQ7B3R5E437X6Z.png" alt="Univesitas Jendral Soedirman" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Univesitas Jendral Soedirman</p>
-                    </div>
-                </a>
-                                <a href="https://www.trunojoyo.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4CK4C2HP8WNKH20M1K1W0B.png" alt="Universitas Trunojoyo Madura" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Trunojoyo Madura</p>
-                    </div>
-                </a>
-                                <a href="https://unisma.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4CP7WW4BPR8ZV8X9FJSHAT.png" alt="Universitas Islam Malang" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Islam Malang</p>
-                    </div>
-                </a>
-                                <a href="https://pmb.umla.ac.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4D1B7QX0V0TDS0VHVCTHZ5.png" alt="Universitas Muhammadiyah Lamongan" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Universitas Muhammadiyah Lamongan</p>
-                    </div>
-                </a>
-                                <a href="https://centamaku.ac.id/profil-itekes/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4D3E371CXCGJZ33A9AZYZ9.jpg" alt="Institut Teknologi Kesehatan Cendekia Utama Kudus" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">Institut Teknologi Kesehatan Cendekia Utama Kudus</p>
-                    </div>
-                </a>
-                                <a href="https://www.smkpim.sch.id/">
-                    <div class="text-center">
-                        <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 mx-auto"
-                            src="https://api.minio-pdn.jatimprov.go.id/dinkes-mmb/partners/01JH4D59FAP5MS1MKZM12X0SJM.png" alt="SMK Putra Indonesia Malang" width="158"
-                            height="48">
-                        <p class="mt-2 text-xs sm:text-sm font-medium text-gray-700">SMK Putra Indonesia Malang</p>
-                    </div>
-                </a>
-                            </div>
-        </div>
-    </div>
-</div>    </div>
-
-</div>
-
-<div>
-    <div x-data="{ open: 1 > 0, currentAnnouncement: 0, announcements: [{&quot;id&quot;:1,&quot;title&quot;:{&quot;id&quot;:&quot;\u200e &quot;,&quot;en&quot;:null},&quot;image&quot;:&quot;https:\/\/api.minio-pdn.jatimprov.go.id\/dinkes-mmb\/announcements\/01JGD47G4A57M9BBNK9NFS2891.PNG&quot;,&quot;description&quot;:{&quot;en&quot;:null},&quot;link&quot;:null,&quot;is_active&quot;:1,&quot;created_at&quot;:&quot;2024-10-31T03:31:53.000000Z&quot;,&quot;updated_at&quot;:&quot;2025-10-15T04:36:34.000000Z&quot;,&quot;trans_title&quot;:&quot;\u200e &quot;,&quot;trans_description&quot;:&quot;&quot;}] }"
-        x-show="open" @click.away="open = false"
-        class="fixed inset-0 bg-gray-800 bg-opacity-50 flex items-center justify-center z-50">
-        <div class="bg-white rounded-lg shadow-lg max-w-lg w-full m-4">
-            <div class="relative">
-                <img :src="announcements[currentAnnouncement].image"
-                    class="w-full h-auto object-contain rounded-t-lg" />
-                <button @click="open = false"
-                    class="absolute top-2 right-2 text-gray-200 hover:text-gray-700 transition duration-200 bg-gray-400 rounded-full opacity-75">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                        stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                </button>
-            </div>
-            <div class="p-6">
-                <h2 class="text-2xl font-bold mb-2" x-text="announcements[currentAnnouncement].trans_title"></h2>
-                <p class="text-gray-700 mb-4" x-text="announcements[currentAnnouncement].trans_description"></p>
-                <div class="flex justify-between">
-                    <button x-show="currentAnnouncement > 0" @click="currentAnnouncement--"
-                        class="text-gray-500 hover:text-gray-700 transition duration-200">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 24 24" fill="none"
-                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M15 18l-6-6 6-6" />
-                        </svg>
-                    </button>
-                    <button x-show="currentAnnouncement < announcements.length - 1" @click="currentAnnouncement++"
-                        class="text-gray-500 hover:text-gray-700 transition duration-200">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 24 24" fill="none"
-                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M9 6l6 6-6 6" />
-                        </svg>
-                    </button>
-                    <a x-show="announcements[currentAnnouncement].link" :href="announcements[currentAnnouncement].link"
-                        class="text-white bg-primary hover:bg-primary-light py-2 px-4 rounded transition duration-200">Pelajari selengkapnya</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>        </div>
-
-        
-
-        
-
-        <div x-data="{ open: false }" class="fixed bottom-5 right-2 z-[9999] flex flex-col items-end gap-2">
-
-    <!-- Card -->
-    <div x-show="open" x-transition class="w-80 bg-white rounded-lg shadow-sm">
-        <div class="font-semibold bg-blue-500 flex flex-row items-center justify-between">
-            <div class="px-4 py-2 text-xs text-white flex items-center justify-center">
-                <svg class="w-6 h-6 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17h6l3 3v-3h2V9h-2M4 4h11v8H9l-3 3v-3H4V4Z"/>
-                </svg>
-                &nbsp;
-                <span>Chat</span>
-            </div>
-            <div class="px-4 py-2">
-                <svg @click="open = !open" class="w-6 h-6 text-white cursor-pointer" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 9-6 6m0-6 6 6m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
-                </svg>
-            </div>
-        </div>
-        <div class="p-4 space-y-3 text-sm">
-            <p>Bingung soal layanan? Tanya saja AMARA, asisten AI (kecerdasan buatan) kami yang siap membantu kapan saja!</p>
-            <i>Catatan: Informasi dari AMARA adalah panduan awal dan tidak menggantikan informasi resmi dari petugas.</i>
-            <a href="https://wa.me/62895393957444" target="_blank" class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-100">
-                <span>+62 895 3939 57444</span>
-            </a>
-            
             
         </div>
-    </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-ff27b90 e-con-full e-flex elementor-invisible e-con e-child" data-id="ff27b90" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:500}">
+                <div class="elementor-element elementor-element-6fcc0b0 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="6fcc0b0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="202" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-138.png" class="attachment-full size-full wp-image-4550" alt="" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-0a2e1b0 elementor-widget elementor-widget-icon-box" data-id="0a2e1b0" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-box-wrapper">
 
-    <!-- Floating Button -->
-    <button @click="open = !open" class="px-4 py-2 bg-blue-500 hover:bg-blue-700 text-sm text-white rounded-full shadow-lg flex items-center justify-center">
-        <svg class="w-6 h-6 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
-            <path fill-rule="evenodd" d="M12 2a7 7 0 0 0-7 7 3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1a1 1 0 0 0 1-1V9a5 5 0 1 1 10 0v7.083A2.919 2.919 0 0 1 14.083 19H14a2 2 0 0 0-2-2h-1a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h1a2 2 0 0 0 1.732-1h.351a4.917 4.917 0 0 0 4.83-4H19a3 3 0 0 0 3-3v-2a3 3 0 0 0-3-3 7 7 0 0 0-7-7Zm1.45 3.275a4 4 0 0 0-4.352.976 1 1 0 0 0 1.452 1.376 2.001 2.001 0 0 1 2.836-.067 1 1 0 1 0 1.386-1.442 4 4 0 0 0-1.321-.843Z" clip-rule="evenodd"/>
-        </svg>
-        &nbsp;
-        <span>
-            Bantuan
+            
+                        <div class="elementor-icon-box-content">
+
+                                    <h3 class="elementor-icon-box-title">
+                        <span  >
+                            Massive<br />Reach                      </span>
+                    </h3>
+                
+                                    <p class="elementor-icon-box-description">
+                        Access hard-to-reach demographics through our nationwide mobile panel.
+
+                    </p>
+                
+            </div>
+            
+        </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-39f2f75 e-con-full e-flex elementor-invisible e-con e-child" data-id="39f2f75" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:1000}">
+                <div class="elementor-element elementor-element-0fb1dfc elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0fb1dfc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="190" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-33-611.png" class="attachment-full size-full wp-image-4551" alt="" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-a2856c3 elementor-widget elementor-widget-icon-box" data-id="a2856c3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-box-wrapper">
+
+            
+                        <div class="elementor-icon-box-content">
+
+                                    <h3 class="elementor-icon-box-title">
+                        <span  >
+                            Affordable Research Platform                        </span>
+                    </h3>
+                
+                                    <p class="elementor-icon-box-description">
+                        Access comprehensive research tools at a flexible pricing that grows with your business.                    </p>
+                
+            </div>
+            
+        </div>
+                        </div>
+                </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-b19b965 e-con-full e-flex e-con e-child" data-id="b19b965" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-4a2093b elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="4a2093b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                <div class="elementor-element elementor-element-f8e6b20 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="f8e6b20" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/#testimonial">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">TESTIMONIALS</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+        <div class="elementor-element elementor-element-62a218b e-flex e-con-boxed e-con e-parent" data-id="62a218b" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-24866a0 e-con-full e-flex e-con e-child" data-id="24866a0" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-6117976 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="6117976" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2026/05/tangere-icon-1-e1733306821256-1.png" class="attachment-full size-full wp-image-4614" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Big Clients Love Us</h2><p class="elementor-image-box-description">We've helped numerous clients achieve their goals, including increasing brand awareness, boosting sales, and optimizing marketing strategies.</p></div></div>              </div>
+                </div>
+        <div class="elementor-element elementor-element-517be40 e-con-full e-flex e-con e-child" data-id="517be40" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-dcc2c31 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="dcc2c31" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/#team">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW THE TEAM</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                <div class="elementor-element elementor-element-0779a60 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="0779a60" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">KNOW MORE</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-c1bf640 e-con-full e-flex e-con e-child" data-id="c1bf640" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-57cbe77 elementor-widget elementor-widget-image-carousel" data-id="57cbe77" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;slides_to_show&quot;:&quot;6&quot;,&quot;autoplay_speed&quot;:2000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+            <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/1AirAsia.jpg" alt="1AirAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/1NutriAsia.jpg" alt="1NutriAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/OIPS-300x300-1-1.png" alt="OIPS-300x300-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/Kenny_Rogers_Roasters_Logo-300x195-1.png" alt="Kenny_Rogers_Roasters_Logo-300x195-1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/lg-megasardines-300x182-1-1.png" alt="lg-megasardines-300x182-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/mores-logo-300x161-1-1.png" alt="mores-logo-300x161-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/normal_1541724131-PHILIPPINE_SPRING_WATER_RESOURCES__INCORPORATED-300x148-1-1.png" alt="normal_1541724131-PHILIPPINE_SPRING_WATER_RESOURCES__INCORPORATED-300x148-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/R1-300x97-1-1-1.png" alt="R1-300x97-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/R3-300x166-1-1.png" alt="R3-300x166-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/R4-300x121-1-1.png" alt="R4-300x121-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/RFM_Corporation_logo-1-1.png" alt="RFM_Corporation_logo-1 (1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 of 12"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2026/05/R5-300x300-1-1.png" alt="R5-300x300-1 (1)" /></figure></div>           </div>
+                            
+                                    </div>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-c09bd03 elementor-widget elementor-widget-image-carousel" data-id="c09bd03" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;10&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;autoplay_speed&quot;:2000,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+            <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1AirAsia.jpg" alt="1AirAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1Belo.jpg" alt="1Belo" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1Mcdonalds.jpg" alt="1Mcdonalds" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1MegaGlobal.jpg" alt="1MegaGlobal" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1NutriAsia.jpg" alt="1NutriAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Aboitiz.jpg" alt="Aboitiz" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/AHeaad.jpg" alt="AHeaad" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ARC.jpg" alt="ARC" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/BIG-E.jpg" alt="BIG E" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Brownies.jpg" alt="Brownies" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Buffalos.jpg" alt="Buffalos" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ConsumerCare.jpg" alt="ConsumerCare" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/CosmetiqueAsia.jpg" alt="CosmetiqueAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/DavaoFamous.jpg" alt="DavaoFamous" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="15 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/DDD.jpg" alt="DDD" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="16 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Diamond-Food.jpg" alt="Diamond Food" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="17 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Digido.jpg" alt="Digido" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="18 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Diginspire.jpg" alt="Diginspire" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="19 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Dingdong.jpg" alt="Dingdong" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="20 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Dunkin-Donuts.jpg" alt="Dunkin Donuts" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="21 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/EON.jpg" alt="EON" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="22 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/FDEV.jpg" alt="FDEV" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="23 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Filinvest.jpg" alt="Filinvest" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="24 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/FuwaFuwa.jpg" alt="FuwaFuwa" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="25 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Gerrys-Grill.jpg" alt="Gerrys Grill" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="26 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Goldilocks.jpg" alt="Goldilocks" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="27 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Goldstar.jpg" alt="Goldstar" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="28 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/GreenCross.jpg" alt="GreenCross" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="29 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Holcim.jpg" alt="Holcim" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="30 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/IPI.jpg" alt="IPI" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="31 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/KennyRogers.jpg" alt="KennyRogers" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="32 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Lawson.jpg" alt="Lawson" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="33 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/LB.jpg" alt="LB" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="34 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Lex.jpg" alt="Lex" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="35 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/M.jpg" alt="M" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="36 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/MLM-FOODS.jpg" alt="MLM FOODS" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="37 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Monde-Nissin.jpg" alt="Monde Nissin" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="38 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Natural.jpg" alt="Natural" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="39 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Nature-Spring.jpg" alt="Nature Spring" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="40 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Origami.jpg" alt="Origami" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="41 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Palawan.jpg" alt="Palawan" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="42 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Pampangas-Best.jpg" alt="Pampangas Best" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="43 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/PCI.jpg" alt="PCI" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="44 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Perla.jpg" alt="Perla" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="45 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Pioneer.jpg" alt="Pioneer" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="46 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Rej.jpg" alt="Rej" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="47 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/RFM.jpg" alt="RFM" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="48 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Royal.jpg" alt="Royal" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="49 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Ship.jpg" alt="Ship" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="50 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/SMDC.jpg" alt="SMDC" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="51 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ToughMama.jpg" alt="ToughMama" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="52 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/TrueDigital.jpg" alt="TrueDigital" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="53 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/UnaCash.jpg" alt="UnaCash" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="54 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/UniGurantee.jpg" alt="UniGurantee" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="55 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Uratex.jpg" alt="Uratex" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="56 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/VictoryLiner.jpg" alt="VictoryLiner" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="57 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Wellmade.jpg" alt="Wellmade" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="58 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/WhiteKing.jpg" alt="WhiteKing" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="59 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ZenNutrients.jpg" alt="ZenNutrients" /></figure></div>            </div>
+                            
+                                    </div>
+                        </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+        <div class="elementor-element elementor-element-509ffeb e-con-full e-flex e-con e-parent" data-id="509ffeb" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-915f93d e-con-full e-flex e-con e-child" data-id="915f93d" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-d570ae3 elementor-widget elementor-widget-image" data-id="d570ae3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1.png" class="attachment-large size-large wp-image-4638" alt="" srcset="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1.png 574w, https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                                                          </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-c98d8ee e-con-full e-flex e-con e-child" data-id="c98d8ee" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-1e9f637 elementor-widget elementor-widget-image" data-id="1e9f637" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1.png" class="attachment-large size-large wp-image-4639" alt="" srcset="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1.png 574w, https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                                                          </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-83e5da8 e-con-full e-flex e-con e-child" data-id="83e5da8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-element elementor-element-5620aa5 elementor-invisible elementor-widget elementor-widget-heading" data-id="5620aa5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h3 class="elementor-heading-title elementor-size-default">What clients say about us</h3>               </div>
+                </div>
+        <div class="elementor-element elementor-element-a0f6288 e-con-full e-flex e-con e-child" data-id="a0f6288" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-6078852 elementor-view-default elementor-widget elementor-widget-icon" data-id="6078852" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-wrapper">
+            <div class="elementor-icon">
+                        </div>
+        </div>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-a0cfb0c elementor-view-default elementor-widget elementor-widget-icon" data-id="a0cfb0c" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-wrapper">
+            <div class="elementor-icon">
+                        </div>
+        </div>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-0e55459 elementor-view-default elementor-widget elementor-widget-icon" data-id="0e55459" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-wrapper">
+            <div class="elementor-icon">
+                        </div>
+        </div>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-16a1e37 elementor-view-default elementor-widget elementor-widget-icon" data-id="16a1e37" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-icon-wrapper">
+            <div class="elementor-icon">
+                        </div>
+        </div>
+                        </div>
+                </div>
+                </div>
+                <div class="elementor-element elementor-element-0ca4212 elementor-arrows-position-inside elementor-widget elementor-widget-n-carousel" data-id="0ca4212" data-element_type="widget" data-e-type="widget" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;ade4923&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;35840fa&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;a71a047&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;e64e1eb&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;d7491a3&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;b68736f&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;ea11f76&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;arrows&quot;:&quot;yes&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+                <div class="elementor-widget-container">
+                            <div class="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+            <div class="swiper-wrapper" aria-live="off">
+                                        <div class="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 of 7">
+                            <div class="elementor-element elementor-element-9036ad4 e-flex e-con-boxed e-con e-child" data-id="9036ad4" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-b59b7fd elementor-widget elementor-widget-text-editor" data-id="b59b7fd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Tangere actually helped us introduce our services to a lot of people. Not just passengers of Victory Liner, but the other passengers of other bus line companies. With the resources that we&#8217;ve gathered, and the analysis that Tangere provided, it was a big help for Victory Liner increase the people reach and actually revenue.</p>                              </div>
+                </div>
+                <div class="elementor-element elementor-element-5af6042 elementor-widget elementor-widget-text-editor" data-id="5af6042" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Marketing Manager</p><p>Victory Liner</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-84f9302 elementor-widget elementor-widget-heading" data-id="84f9302" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Mr. Raul Ecaldre</h4>                </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 of 7">
+                            <div class="elementor-element elementor-element-fd3e18c e-flex e-con-boxed e-con e-child" data-id="fd3e18c" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-875cb0a elementor-widget elementor-widget-text-editor" data-id="875cb0a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>So are we going to recommend Tangere to other potential clients? Definitely, YES! Because overall they were able to meet our expectations and we value this partnership with them and we look forward to more collaboration in the future.</p>                               </div>
+                </div>
+                <div class="elementor-element elementor-element-b0e0c90 elementor-widget elementor-widget-text-editor" data-id="b0e0c90" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p><span style="white-space-collapse: preserve;">VP for brands</span></p>                               </div>
+                </div>
+                <div class="elementor-element elementor-element-cd1841a elementor-widget elementor-widget-heading" data-id="cd1841a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">JOHN REY VILLORENTE</h4>             </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 of 7">
+                            <div class="elementor-element elementor-element-4f25624 e-flex e-con-boxed e-con e-child" data-id="4f25624" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-475a5cd elementor-widget elementor-widget-text-editor" data-id="475a5cd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>                             </div>
+                </div>
+                <div class="elementor-element elementor-element-77e8c4b elementor-widget elementor-widget-text-editor" data-id="77e8c4b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-531c0fd elementor-widget elementor-widget-heading" data-id="531c0fd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>               </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 of 7">
+                            <div class="elementor-element elementor-element-38462d0 e-flex e-con-boxed e-con e-child" data-id="38462d0" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-860fefc elementor-widget elementor-widget-text-editor" data-id="860fefc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>                             </div>
+                </div>
+                <div class="elementor-element elementor-element-2b6ecf2 elementor-widget elementor-widget-text-editor" data-id="2b6ecf2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-533bf9f elementor-widget elementor-widget-heading" data-id="533bf9f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>               </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 of 7">
+                            <div class="elementor-element elementor-element-72d80b8 e-flex e-con-boxed e-con e-child" data-id="72d80b8" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-ed0089f elementor-widget elementor-widget-text-editor" data-id="ed0089f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>                             </div>
+                </div>
+                <div class="elementor-element elementor-element-254db57 elementor-widget elementor-widget-text-editor" data-id="254db57" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-d199fe3 elementor-widget elementor-widget-heading" data-id="d199fe3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>               </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="6" role="group" aria-roledescription="slide" aria-label="6 of 7">
+                            <div class="elementor-element elementor-element-227b656 e-flex e-con-boxed e-con e-child" data-id="227b656" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-4755fa8 elementor-widget elementor-widget-text-editor" data-id="4755fa8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Using Tangere for our data collection on the recall survey on nutrition messages has been instrumental in enhancing the<br />efficiency of gleaning insights for our nutrition projects. Over three survey cycles, Tangere has consistently provided<br />reliable and timely data, allowing us to effectively measure audience&#8217; recall of messages effectiveness.</p>                             </div>
+                </div>
+                <div class="elementor-element elementor-element-ddda8d7 elementor-widget elementor-widget-text-editor" data-id="ddda8d7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Eon Group</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-36010d5 elementor-widget elementor-widget-heading" data-id="36010d5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Meinardo Teves</h4>              </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                            <div class="swiper-slide" data-slide="7" role="group" aria-roledescription="slide" aria-label="7 of 7">
+                            <div class="elementor-element elementor-element-861bb66 e-flex e-con-boxed e-con e-child" data-id="861bb66" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-f8323e4 elementor-widget elementor-widget-text-editor" data-id="f8323e4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>At Sumaya Food Manufacturing Inc., we value the significance of research in extracting insights from consumer data. Our research partner,<br />Tangere, has helped us cull these consumer insights via scientific, in-depth, and efficient methodologies. Tangere has been<br />instrumental in helping us be strategic in approaching our business planning and development.</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-47b64c7 elementor-widget elementor-widget-text-editor" data-id="47b64c7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Head of Marketing, Samuya Food Manufacturing Inc.</p>                                </div>
+                </div>
+                <div class="elementor-element elementor-element-e0855eb elementor-widget elementor-widget-heading" data-id="e0855eb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Mr. Eggie Pekson</h4>                </div>
+                </div>
+                    </div>
+                </div>
+                                </div>
+                                </div>
+        </div>
+                    <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous">
+                <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>           </div>
+            <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next">
+                <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>          </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-027730a e-con-full e-flex e-con e-child" data-id="027730a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-element elementor-element-db48692 elementor-widget elementor-widget-spacer" data-id="db48692" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-spacer">
+            <div class="elementor-spacer-inner"></div>
+        </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-1e5833a e-con-full e-flex e-con e-child" data-id="1e5833a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-element elementor-element-8104dac elementor-widget elementor-widget-spacer" data-id="8104dac" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-spacer">
+            <div class="elementor-spacer-inner"></div>
+        </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-6c870ae e-con-full e-flex e-con e-child" data-id="6c870ae" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-element elementor-element-5278443 elementor-widget elementor-widget-spacer" data-id="5278443" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-spacer">
+            <div class="elementor-spacer-inner"></div>
+        </div>
+                        </div>
+                </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-6bfae7e e-flex e-con-boxed e-con e-parent" data-id="6bfae7e" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-390427a elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="390427a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2026/05/tangere-icon-1-e1733306821256-1.png" class="attachment-full size-full wp-image-4614" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Latest News and Insights</h2><p class="elementor-image-box-description">Stay up-to-date with the latest trends, industry news, and company updates.</p></div></div>               </div>
+                </div>
+                <div class="elementor-element elementor-element-615bb84 elementor-mobile-align-justify elementor-align-center elementor-widget elementor-widget-button" data-id="615bb84" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/news/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">VIEW ALL</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                    </div>
+                </div>
+        <div class="elementor-element elementor-element-4ee00ff elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="4ee00ff" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-e4d7d7b e-con-full e-flex e-con e-child" data-id="e4d7d7b" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-646781c e-con-full e-flex e-con e-child" data-id="646781c" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-b69806d elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="b69806d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Latest News and Insights</h2><p class="elementor-image-box-description">Stay up-to-date with the latest trends, industry news, and company updates.</p></div></div>               </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-9b0e125 e-con-full e-flex e-con e-child" data-id="9b0e125" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-131dd20 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="131dd20" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/news/">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">VIEW ALL</span>
+                    </span>
+                    </a>
+                </div>
+                                </div>
+                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+        <div class="elementor-element elementor-element-c8452d0 e-con-full e-flex e-con e-parent" data-id="c8452d0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-element elementor-element-cffef75 elementor-invisible elementor-widget elementor-widget-loop-carousel" data-id="cffef75" data-element_type="widget" data-e-type="widget" data-settings="{&quot;template_id&quot;:&quot;2831&quot;,&quot;slides_to_show&quot;:&quot;4&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300,&quot;_skin&quot;:&quot;post&quot;,&quot;slides_to_show_tablet&quot;:&quot;2&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;.elementor-loop-container&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-carousel.post">
+                <div class="elementor-widget-container">
+                            <div class="swiper elementor-loop-container elementor-grid" role="list" dir="ltr">
+                <div class="swiper-wrapper" aria-live="off">
+        <style id="loop-2831">.elementor-2831 .elementor-element.elementor-element-8785770{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--overlay-opacity:0.05;--border-radius:20px 20px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-8785770::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:var( --e-global-color-text );--background-overlay:'';}.elementor-2831 .elementor-element.elementor-element-b7391a2{--display:flex;--overflow:hidden;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-13600db img{width:100%;height:200px;object-fit:cover;object-position:center center;}.elementor-2831 .elementor-element.elementor-element-8b99c42{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-2831 .elementor-element.elementor-element-e0a620e .elementor-heading-title{color:var( --e-global-color-f1ad742 );}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon{width:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon i{font-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text, .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text a{color:var( --e-global-color-primary );}.elementor-2831 .elementor-element.elementor-element-900a870 .elementor-widget-container{color:var( --e-global-color-primary );}/* Start custom CSS for container, class: .elementor-element-8785770 */.elementor-2831 .elementor-element.elementor-element-8785770:hover #thumbnail-img{
+    transform: scale(1.2);
+    transition: transform ease .3s;
+}
+
+.elementor-2831 .elementor-element.elementor-element-8785770 #thumbnail-img{
+    transform: scale(1);
+    transition: transform ease .3s;
+}/* End custom CSS */</style><style id="elementor-post-2831">.elementor-2831 .elementor-element.elementor-element-8785770{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--overlay-opacity:0.05;--border-radius:20px 20px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-8785770::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:var( --e-global-color-text );--background-overlay:'';}.elementor-2831 .elementor-element.elementor-element-b7391a2{--display:flex;--overflow:hidden;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-13600db img{width:100%;height:200px;object-fit:cover;object-position:center center;}.elementor-2831 .elementor-element.elementor-element-8b99c42{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-2831 .elementor-element.elementor-element-e0a620e .elementor-heading-title{color:var( --e-global-color-f1ad742 );}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon{width:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon i{font-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text, .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text a{color:var( --e-global-color-primary );}.elementor-2831 .elementor-element.elementor-element-900a870 .elementor-widget-container{color:var( --e-global-color-primary );}/* Start custom CSS for container, class: .elementor-element-8785770 */.elementor-2831 .elementor-element.elementor-element-8785770:hover #thumbnail-img{
+    transform: scale(1.2);
+    transition: transform ease .3s;
+}
+
+.elementor-2831 .elementor-element.elementor-element-8785770 #thumbnail-img{
+    transform: scale(1);
+    transition: transform ease .3s;
+}/* End custom CSS */</style>       <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2778 post-2778 post type-post status-publish format-standard has-post-thumbnail hentry category-tangere-mr-martin-penaflor" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/rappler-talk-tangeres-martin-penaflor-on-using-mobile-phone-surveys-for-elections/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="450" src="https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-1024x576.jpg" class="attachment-large size-large wp-image-2781" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-1024x576.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-300x169.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-768x432.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />                                                         </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Rappler Talk: Tangere’s Martin Peñaflor on using mobile phone surveys for elections</h4>             </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>Rappler reporter Pia Ranada asks Martin Peñaflor about how Tangere&#8217;s mobile phone surveys offer another way of measuring sentiment about...                </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2773 post-2773 post type-post status-publish format-standard has-post-thumbnail hentry category-tangere-mr-martin-penaflor" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/amplifying-the-voice-of-the-filipino/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="650" height="444" src="https://tangereapp.com/wp-content/uploads/2024/12/covertangere.jpg" class="attachment-large size-large wp-image-2774" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/covertangere.jpg 650w, https://tangereapp.com/wp-content/uploads/2024/12/covertangere-300x205.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" />                                                            </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Amplifying the voice of the Filipino</h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>These days, he is more popularly known as Boss Martin to the half a million followers of the Tangere Pinoy...                </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2770 post-2770 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/majority-of-filipinos-still-support-proposed-economic-cha-cha-survey/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="748" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-1024x957.jpeg" class="attachment-large size-large wp-image-2771" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-1024x957.jpeg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-300x280.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-768x718.jpeg 768w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88.jpeg 1408w" sizes="(max-width: 800px) 100vw, 800px" />                                                          </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Majority of Filipinos still support proposed economic Cha-cha — survey</h4>              </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>A survey conducted by market research company Tangere revealed that three out of five Filipinos remain supportive of proposals to...             </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2767 post-2767 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/60-of-filipinos-back-proposed-economic-charter-change-survey/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="432" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58.jpeg" class="attachment-large size-large wp-image-2768" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58.jpeg 868w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58-300x162.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58-768x415.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" />                                                           </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">60% of Filipinos back proposed economic Charter change — survey</h4>             </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>A public opinion poll conducted by Tangere in June revealed that 60 percent of Filipinos support the proposed amendment to...                </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2764 post-2764 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/slightly-more-filipinos-back-cha-cha-survey-shows/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="500" height="261" src="https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha.jpeg" class="attachment-large size-large wp-image-2783" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha.jpeg 500w, https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha-300x157.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" />                                                            </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Slightly more Filipinos back Cha-cha, survey shows</h4>              </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>Tangere&#8217;s April 2024 survey results revealed that 54 percent of Filipinos support Charter change (Cha-cha), up from 52 percent in...               </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2762 post-2762 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/6-out-of-10-filipinos-support-proposed-economic-cha-cha-survey/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="463" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-1024x593.jpeg" class="attachment-large size-large wp-image-2763" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-1024x593.jpeg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-300x174.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-768x444.jpeg 768w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770.jpeg 1080w" sizes="(max-width: 800px) 100vw, 800px" />                                                          </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">6 out of 10 Filipinos support proposed economic Cha-cha — survey</h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>Market research company Tangere revealed that six out of 10 Filipinos remain supportive of proposals to amend the economic provisions...             </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2760 post-2760 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/tangere-survey-over-half-of-filipinos-maintain-support-for-constitutional-amendments-to-economic-provisions/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="450" src="https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-1024x576.png" class="attachment-large size-large wp-image-2743" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-1024x576.png 1024w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-300x169.png 300w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-768x432.png 768w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1.png 1280w" sizes="(max-width: 800px) 100vw, 800px" />                                                           </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Tangere survey: Over half of Filipinos maintain support for constitutional amendments to economic provisions</h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>Fifty-seven percent of Filipinos expressed their support for the proposed amendments to the Constitution&#8217;s economic provisions, marking a slight increase...               </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2757 post-2757 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+            <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/escudero-should-take-a-cue-from-tangere-poll-results-on-cha-cha-house-leaders/">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+                <div class="elementor-widget-container">
+                                                            <img loading="lazy" decoding="async" width="800" height="533" src="https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1024x682.jpg" class="attachment-large size-large wp-image-2758" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1024x682.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-300x200.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-768x512.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1536x1023.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                                                            </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">Escudero should take a cue from Tangere poll results on Cha-cha&#8211;House leaders </h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                                        <time>December 16, 2024</time>                  </span>
+                                </li>
+                <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                                                    <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+                            <span class="elementor-post-info__item-prefix">by</span>
+                                        Tangere                 </span>
+                                </li>
+                </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+                <div class="elementor-widget-container">
+                    <p>At a glance Filipinos&#8217; majority support for economic Charter Change (Cha-cha) should be reason enough for the Senate under Senate...               </div>
+                </div>
+                </div>
+                    </div>
+                </a>
+                </div>
+                </div>
+        </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-8c7728a e-flex e-con-boxed e-con e-parent" data-id="8c7728a" data-element_type="container" data-e-type="container" id="contact">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-220c0b6 e-con-full e-flex e-con e-child" data-id="220c0b6" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-f381c39 e-con-full e-flex e-con e-child" data-id="f381c39" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-d46d3a9 elementor-position-top elementor-widget elementor-widget-image-box" data-id="d46d3a9" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2026/05/tangere-icon-1-e1733306821256-1.png" class="attachment-full size-full wp-image-4614" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Frequently Asked Questions</h2></div></div>               </div>
+                </div>
+                </div>
+                <div class="elementor-element elementor-element-be10faf elementor-invisible elementor-widget elementor-widget-n-accordion" data-id="be10faf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;n_accordion_animation_duration&quot;:{&quot;unit&quot;:&quot;ms&quot;,&quot;size&quot;:350,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;default_state&quot;:&quot;all_collapsed&quot;,&quot;max_items_expended&quot;:&quot;one&quot;}" data-widget_type="nested-accordion.default">
+                <div class="elementor-widget-container">
+                            <div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
+                        <details id="e-n-accordion-item-1990" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="false" aria-controls="e-n-accordion-item-1990" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What is market research? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
         </span>
-    </button>
-</div>
 
-        <div>
-    <footer class="bg-gray-800 text-gray-50">
-        <div class="container p-6 max-w-7xl mx-auto">
-            <div class="lg:flex">
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1990" class="elementor-element elementor-element-8bc6e9d e-con-full e-flex e-con e-child" data-id="8bc6e9d" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-5bface0 elementor-widget elementor-widget-text-editor" data-id="5bface0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Market research is the process of collecting and analyzing data to understand the market for a particular product or service. This includes gathering information about customer needs, preferences, behaviors, competitor activity, and industry trends.</p>                                </div>
+                </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1991" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1991" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Why is market research important? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
 
-                <div class="mt-6 lg:mt-0 lg:flex-1">
-                    <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3">
-                        
-                        <div>
-                            <h3 class="text-base font-semibold leading-7">Kontak</h3>
-                            <h4 class="mt-4 text-sm font-semibold">Alamat</h4>
-                            <a href="https://maps.app.goo.gl/2HLMNnJsLFkpWamX7" target="_blank"
-                                class="flex gap-2 items-center mt-2 text-sm hover:underline">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="m7.539 14.841.003.003.002.002a.755.755 0 0 0 .912 0l.002-.002.003-.003.012-.009a5.57 5.57 0 0 0 .19-.153 15.588 15.588 0 0 0 2.046-2.082c1.101-1.362 2.291-3.342 2.291-5.597A5 5 0 0 0 3 7c0 2.255 1.19 4.235 2.292 5.597a15.591 15.591 0 0 0 2.046 2.082 8.916 8.916 0 0 0 .189.153l.012.01ZM8 8.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" clip-rule="evenodd"/>
-</svg>                                <div>
-                                    Jl. Lahor No.87 Kota Batu
-                                </div>
-                            </a>
-                            <a href="https://maps.app.goo.gl/2TXFnSU2bp9Eg6Ka8" target="_blank"
-                                class="flex gap-2 items-center mt-2 text-sm hover:underline">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="m7.539 14.841.003.003.002.002a.755.755 0 0 0 .912 0l.002-.002.003-.003.012-.009a5.57 5.57 0 0 0 .19-.153 15.588 15.588 0 0 0 2.046-2.082c1.101-1.362 2.291-3.342 2.291-5.597A5 5 0 0 0 3 7c0 2.255 1.19 4.235 2.292 5.597a15.591 15.591 0 0 0 2.046 2.082 8.916 8.916 0 0 0 .189.153l.012.01ZM8 8.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" clip-rule="evenodd"/>
-</svg>                                <div>
-                                    Jl. Kolonel Sugiono No.457-459, Gadang, Kota Malang
-                                </div>
-                            </a>
-                            <a href="https://goo.gl/maps/M6YvfkzwoKpgUqxN7" target="_blank"
-                                class="flex gap-2 items-center mt-2 text-sm hover:underline">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="m7.539 14.841.003.003.002.002a.755.755 0 0 0 .912 0l.002-.002.003-.003.012-.009a5.57 5.57 0 0 0 .19-.153 15.588 15.588 0 0 0 2.046-2.082c1.101-1.362 2.291-3.342 2.291-5.597A5 5 0 0 0 3 7c0 2.255 1.19 4.235 2.292 5.597a15.591 15.591 0 0 0 2.046 2.082 8.916 8.916 0 0 0 .189.153l.012.01ZM8 8.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" clip-rule="evenodd"/>
-</svg>                                <div>
-                                    Jalan Raya No. 228 Kejayan, Kabupaten Pasuruan
-                                </div>
-                            </a>
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1991" class="elementor-element elementor-element-7b8df89 e-con-full e-flex e-con e-child" data-id="7b8df89" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-738a98c elementor-widget elementor-widget-text-editor" data-id="738a98c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Market research provides businesses with valuable insights that can help them make informed decisions about product development, pricing, promotion, and distribution. It can also help businesses identify new opportunities, evaluate the potential success of a new product or service, and stay ahead of competitors.</p>                                </div>
+                </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1992" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="3" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1992" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How do you conduct market research? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
 
-                            <h4 class="mt-4 text-sm font-semibold">Jam Operasional</h4>
-                            <div class="flex gap-2 items-center mt-2 text-sm">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8Zm7.75-4.25a.75.75 0 0 0-1.5 0V8c0 .414.336.75.75.75h3.25a.75.75 0 0 0 0-1.5h-2.5v-3.5Z" clip-rule="evenodd"/>
-</svg>                                <div>
-                                    Senin-Kamis: Pukul 08.00 - 16.00 WIB
-                                </div>
-                            </div>
-                            <div class="flex gap-2 items-center mt-2 text-sm">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="M1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8Zm7.75-4.25a.75.75 0 0 0-1.5 0V8c0 .414.336.75.75.75h3.25a.75.75 0 0 0 0-1.5h-2.5v-3.5Z" clip-rule="evenodd"/>
-</svg>                                <div>
-                                    Jumat: Pukul 07.00 - 16.00 WIB
-                                </div>
-                            </div>
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1992" class="elementor-element elementor-element-3341798 e-con-full e-flex e-con e-child" data-id="3341798" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-50d8243 elementor-widget elementor-widget-text-editor" data-id="50d8243" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>The market research process varies depending on the type of research being conducted. For primary research, methods can include surveys, interviews, focus groups, and experiments. Our market research experts can review existing data sources and analyze the information for secondary research to gain insights.</p>                                </div>
+                </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1993" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1993" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How much does market research cost? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
 
-                            <a href="https://wa.me/6282143260479" target="_blank"
-                                class="flex gap-2 items-center mt-4 text-sm hover:underline">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path fill-rule="evenodd" d="m3.855 7.286 1.067-.534a1 1 0 0 0 .542-1.046l-.44-2.858A1 1 0 0 0 4.036 2H3a1 1 0 0 0-1 1v2c0 .709.082 1.4.238 2.062a9.012 9.012 0 0 0 6.7 6.7A9.024 9.024 0 0 0 11 14h2a1 1 0 0 0 1-1v-1.036a1 1 0 0 0-.848-.988l-2.858-.44a1 1 0 0 0-1.046.542l-.534 1.067a7.52 7.52 0 0 1-4.86-4.859Z" clip-rule="evenodd"/>
-</svg>                                <div>+62821-4326-0479 (Layanan pengaduan)</div>
-                            </a>
-                            <a href="/cdn-cgi/l/email-protection#2d404c59485f444c404849444e4c4f4c59586d474c5944405d5f425b034a42034449" target="_blank" class="flex gap-2 items-center mt-2 text-sm hover:underline">
-                                <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
-  <path d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z"/>
-  <path d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z"/>
-</svg>                                <div>
-                                    <span class="__cf_email__" data-cfemail="214c4055445348404c444548424043405554614b4055484c51534e570f464e0f4845">[email&#160;protected]</span>
-                                </div>
-                            </a>
-                        </div>
-
-                        
-                        <div wire:snapshot="{&quot;data&quot;:[],&quot;memo&quot;:{&quot;id&quot;:&quot;xNC2YUnEY86EWwHzonuN&quot;,&quot;name&quot;:&quot;visitor-statistic&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:{&quot;lw-2373336824-0&quot;:[&quot;div&quot;,&quot;nDNTKmOJc0t8Zrh52T3x&quot;],&quot;lw-2373336824-1&quot;:[&quot;div&quot;,&quot;YdUkh1OBjyea9u093k8U&quot;],&quot;lw-2373336824-2&quot;:[&quot;div&quot;,&quot;ap3HfHlko1QShoalJbCi&quot;],&quot;lw-2373336824-3&quot;:[&quot;div&quot;,&quot;WNdPIXDO7RjYpeSPEJEc&quot;]},&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;241dd77ba4196c71fdffd5dbe87ca3f4539d24a2ab9528bdb02fa44b8e3300eb&quot;}" wire:effects="[]" wire:id="xNC2YUnEY86EWwHzonuN">
-    <h3 class="text-base font-semibold leading-7">Statistik Pengunjung
-    </h3>
-    <div wire:snapshot="{&quot;data&quot;:{&quot;online_visitors&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;nDNTKmOJc0t8Zrh52T3x&quot;,&quot;name&quot;:&quot;online-visitors&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;lazyLoaded&quot;:false,&quot;lazyIsolated&quot;:true,&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;5c5237a09d23fd10c4a1a535017f8693818e9503dae9d602063b41db64ef6d0f&quot;}" wire:effects="[]" wire:id="nDNTKmOJc0t8Zrh52T3x" x-intersect="$wire.__lazyLoad(&#039;eyJkYXRhIjp7ImZvck1vdW50IjpbW10seyJzIjoiYXJyIn1dfSwibWVtbyI6eyJpZCI6IkFjdlAzUzhoSTZ4aUkzMmJITzFQIiwibmFtZSI6Il9fbW91bnRQYXJhbXNDb250YWluZXIifSwiY2hlY2tzdW0iOiJmMDFiMDJlMzQ1YmVhYmQwOTljODE1ZDg5NTQ0MzBhZGNjNGY3NDRiZGJmYTc4MGRkOTE5ODY1MzcwMzEyZTFlIn0=&#039;)"></div>    <div wire:snapshot="{&quot;data&quot;:{&quot;today_visitors&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;YdUkh1OBjyea9u093k8U&quot;,&quot;name&quot;:&quot;today-visitors&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;lazyLoaded&quot;:false,&quot;lazyIsolated&quot;:true,&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;f1e5ebfdb4a995ecd9c72604647bfdddbe96bd924f03285ed7fe6c2aefd305ab&quot;}" wire:effects="[]" wire:id="YdUkh1OBjyea9u093k8U" x-intersect="$wire.__lazyLoad(&#039;eyJkYXRhIjp7ImZvck1vdW50IjpbW10seyJzIjoiYXJyIn1dfSwibWVtbyI6eyJpZCI6IkVwZlNzbTVQYXU3TnB2S0ZNcjJhIiwibmFtZSI6Il9fbW91bnRQYXJhbXNDb250YWluZXIifSwiY2hlY2tzdW0iOiIyODVjYmM5NzcwNDY0NDcxNGI3NjEwNmMyNzIyOGRmMGE3NjRjMTM1ODc0NGFmYzRkM2Q1YjA0YTRkZGJjMDc0In0=&#039;)"></div>    <div wire:snapshot="{&quot;data&quot;:{&quot;current_year_visitors&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;ap3HfHlko1QShoalJbCi&quot;,&quot;name&quot;:&quot;current-year-visitors&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;lazyLoaded&quot;:false,&quot;lazyIsolated&quot;:true,&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;e9c08088749592fafcb24e488302baad0ad2876935ffbb744e3559f649023f53&quot;}" wire:effects="[]" wire:id="ap3HfHlko1QShoalJbCi" x-intersect="$wire.__lazyLoad(&#039;eyJkYXRhIjp7ImZvck1vdW50IjpbW10seyJzIjoiYXJyIn1dfSwibWVtbyI6eyJpZCI6IjZGSFpPVFg3SmQ0ZUpDNklpcXI1IiwibmFtZSI6Il9fbW91bnRQYXJhbXNDb250YWluZXIifSwiY2hlY2tzdW0iOiI1YjE5YjlkNjc1MzY3NzEwZjM5MzI3MzM1NjAyYjBiYjQzYTFlYzQ0MzJhZGNlNjUxZDRkY2FkNGNjNzE5MTk1In0=&#039;)"></div>    <div wire:snapshot="{&quot;data&quot;:{&quot;total_visitors&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;WNdPIXDO7RjYpeSPEJEc&quot;,&quot;name&quot;:&quot;total-visitors&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;lazyLoaded&quot;:false,&quot;lazyIsolated&quot;:true,&quot;errors&quot;:[],&quot;locale&quot;:&quot;id&quot;},&quot;checksum&quot;:&quot;b26a6ef306f408cb57ea8167c28f25ec4278ac5db9a8c0e273c49e30bd924d6d&quot;}" wire:effects="[]" wire:id="WNdPIXDO7RjYpeSPEJEc" x-intersect="$wire.__lazyLoad(&#039;eyJkYXRhIjp7ImZvck1vdW50IjpbW10seyJzIjoiYXJyIn1dfSwibWVtbyI6eyJpZCI6IjhxUm9SU003YVlEaExuaW5jZlZvIiwibmFtZSI6Il9fbW91bnRQYXJhbXNDb250YWluZXIifSwiY2hlY2tzdW0iOiI4OWE5M2MzZTIxOTM3YThjMDQxZGIyMjI0OWEzZTEzZTk2MzdhM2U2NTQ4NmFmNzlhZDhjZTNhMzBjZDgyODdmIn0=&#039;)"></div></div>
-                        <div>
-                            <h3 class="text-base font-semibold leading-7">Video</h3>
-                            <a href="https://www.youtube.com/watch?v=kqIqc5erwlY&t=68s"
-                                class="block mt-2 text-sm text-gray-600 hover:underline">
-                                <img class="object-cover aspect-video w-full rounded-md"
-                                    src="https://img.youtube.com/vi/kqIqc5erwlY/hqdefault.jpg" alt="" srcset="">
-                            </a>
-                        </div>
-
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1993" class="elementor-element elementor-element-abbbd49 e-flex e-con-boxed e-con e-child" data-id="abbbd49" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-6e214d9 elementor-widget elementor-widget-text-editor" data-id="6e214d9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>The cost of market research can vary depending on the scope of the project and the methods used. However, Tangere promotes flexible term agreements that could fit all business sizes, be it small to medium and large enterprises.</p>                              </div>
+                </div>
                     </div>
                 </div>
-            </div>
+                    </details>
+                        <details id="e-n-accordion-item-1994" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="5" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1994" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How can market research be used in marketing? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
 
-            <hr class="h-px my-6 bg-gray-600 border-none">
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1994" class="elementor-element elementor-element-ef3129d e-flex e-con-boxed e-con e-child" data-id="ef3129d" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-eb5629a elementor-widget elementor-widget-text-editor" data-id="eb5629a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Market research can be used to inform marketing decisions by providing actionable insights into customer needs, preferences, and behaviors. This information can be used to develop targeted marketing campaigns, design effective messaging, and optimize product features and pricing.</p>                             </div>
+                </div>
+                    </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1995" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="6" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1995" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text">  How often should businesses conduct market research? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
 
-            <div>
-                <p class="text-center text-sm text-gray-400">© Materia Medica Batu 2024 - All
-                    rights
-                    reserved
-                </p>
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1995" class="elementor-element elementor-element-3607c36 e-flex e-con-boxed e-con e-child" data-id="3607c36" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div role="region" aria-labelledby="e-n-accordion-item-1995" class="elementor-element elementor-element-6f13d15 e-con-full e-flex e-con e-child" data-id="6f13d15" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-5311c86 elementor-widget elementor-widget-text-editor" data-id="5311c86" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>The frequency of market research depends on the business and industry. Some businesses may conduct market research on an ongoing basis to stay up-to-date on industry trends and consumer preferences. Others may conduct research less frequently, such as when launching a new product or entering a new market.</p>                               </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1996" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="7" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1996" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What are some examples of market research? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
+
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1996" class="elementor-element elementor-element-0bf7165 e-flex e-con-boxed e-con e-child" data-id="0bf7165" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div role="region" aria-labelledby="e-n-accordion-item-1996" class="elementor-element elementor-element-31af9e2 e-con-full e-flex e-con e-child" data-id="31af9e2" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-7427229 elementor-widget elementor-widget-text-editor" data-id="7427229" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>Examples of market research include conducting customer surveys to gather feedback on a new product, analyzing competitor pricing and positioning, and reviewing industry reports to identify emerging trends.</p>                               </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                    </details>
+                        <details id="e-n-accordion-item-1997" class="e-n-accordion-item" >
+                <summary class="e-n-accordion-item-title" data-accordion-index="8" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1997" >
+                    <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Where can I download the App? </div></span>
+                            <span class='e-n-accordion-item-title-icon'>
+            <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+            <span class='e-closed'></span>
+        </span>
+
+                        </summary>
+                <div role="region" aria-labelledby="e-n-accordion-item-1997" class="elementor-element elementor-element-d914d86 e-flex e-con-boxed e-con e-child" data-id="d914d86" data-element_type="container" data-e-type="container">
+                    <div class="e-con-inner">
+        <div role="region" aria-labelledby="e-n-accordion-item-1997" class="elementor-element elementor-element-f3aa1af e-con-full e-flex e-con e-child" data-id="f3aa1af" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-3062aa3 elementor-widget elementor-widget-text-editor" data-id="3062aa3" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>The Tangere Mobile application is available for Android and Apple smartphone users. The app is downloadable on both google play and apple store.</p>                             </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                    </details>
+                    </div>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-c761b8f e-con-full e-flex e-con e-child" data-id="c761b8f" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-af81513 e-con-full e-flex e-con e-child" data-id="af81513" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-6961cdd elementor-position-top elementor-widget elementor-widget-image-box" data-id="6961cdd" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+                <div class="elementor-widget-container">
+                    <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2026/05/tangere-icon-1-e1733306821256-1.png" class="attachment-full size-full wp-image-4614" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Get In Touch​</h2><p class="elementor-image-box-description">Have a project in mind that you think we’d be a great fit for it? We’d love to know what you’re thinking</p></div></div>             </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-a613816 e-con-full e-flex elementor-invisible e-con e-child" data-id="a613816" data-element_type="container" data-e-type="container" id="contact" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                <div class="elementor-element elementor-element-5762c00 elementor-absolute elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="5762c00" data-element_type="widget" data-e-type="widget" data-settings="{&quot;button_width&quot;:&quot;30&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+                <div class="elementor-widget-container">
+                            <form class="elementor-form" method="post" name="Get In Touch" aria-label="Get In Touch">
+            <input type="hidden" name="post_id" value="10"/>
+            <input type="hidden" name="form_id" value="5762c00"/>
+            <input type="hidden" name="referer_title" value="" />
+
+                            <input type="hidden" name="queried_id" value="10"/>
+            
+            <div class="elementor-form-fields-wrapper elementor-labels-above">
+                                <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50">
+                                                <label for="form-field-name" class="elementor-field-label">
+                                Name                            </label>
+                                                        <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Name">
+                                            </div>
+                                <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+                                                <label for="form-field-email" class="elementor-field-label">
+                                Email Address                           </label>
+                                                        <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Email" required="required">
+                                            </div>
+                                <div class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-field_9d285b8 elementor-col-100">
+                                                <label for="form-field-field_9d285b8" class="elementor-field-label">
+                                Subject                         </label>
+                        <div class="elementor-field-subgroup  elementor-subgroup-inline"><span class="elementor-field-option"><input type="radio" value="Services" id="form-field-field_9d285b8-0" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-0">Services</label></span><span class="elementor-field-option"><input type="radio" value="Information" id="form-field-field_9d285b8-1" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-1">Information</label></span><span class="elementor-field-option"><input type="radio" value="Others" id="form-field-field_9d285b8-2" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-2">Others</label></span></div>               </div>
+                                <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+                                                <label for="form-field-message" class="elementor-field-label">
+                                Message                         </label>
+                        <textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[message]" id="form-field-message" rows="8" placeholder="Message"></textarea>             </div>
+                                <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons">
+                    <button class="elementor-button elementor-size-sm" type="submit">
+                        <span class="elementor-button-content-wrapper">
+                                                                                        <span class="elementor-button-text">SUBMIT</span>
+                                                    </span>
+                    </button>
+                </div>
             </div>
+        </form>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-6f67f4b elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-spacer" data-id="6f67f4b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-spacer">
+            <div class="elementor-spacer-inner"></div>
         </div>
-    </footer>
-</div>    </div>
+                        </div>
+                </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                </div>
+        <div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+<style>.elementor-764 .elementor-element.elementor-element-5df3904{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:4em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-764 .elementor-element.elementor-element-5df3904:not(.elementor-motion-effects-element-type-background), .elementor-764 .elementor-element.elementor-element-5df3904 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-764 .elementor-element.elementor-element-43a9fef{--display:flex;--padding-top:0%;--padding-bottom:0%;--padding-left:0%;--padding-right:0%;}.elementor-764 .elementor-element.elementor-element-030fdad .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:700;line-height:1.2em;letter-spacing:2px;color:var( --e-global-color-primary );}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-764 .elementor-element.elementor-element-12c6a4a{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > a{font-family:"Open Sans", Sans-serif;font-size:17px;font-weight:400;line-height:1.2em;letter-spacing:0px;word-spacing:0px;}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-afdeb24{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-764 .elementor-element.elementor-element-61dc684 .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:700;line-height:1.2em;letter-spacing:2px;color:var( --e-global-color-primary );}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-764 .elementor-element.elementor-element-bf48cae{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > a{font-family:"Open Sans", Sans-serif;font-size:17px;font-weight:400;line-height:1.2em;letter-spacing:0px;word-spacing:0px;}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-107b017{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-764 .elementor-element.elementor-element-9b75538 .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:700;line-height:1.2em;letter-spacing:2px;color:var( --e-global-color-primary );}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-764 .elementor-element.elementor-element-c070169{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > a{font-family:"Open Sans", Sans-serif;font-size:17px;font-weight:400;line-height:1.2em;letter-spacing:0px;word-spacing:0px;}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-764 .elementor-element.elementor-element-4bc9efa{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > a{font-family:"Open Sans", Sans-serif;font-size:17px;font-weight:400;line-height:1.2em;letter-spacing:0px;word-spacing:0px;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-764 .elementor-element.elementor-element-5eb3083{--display:grid;--e-con-grid-template-columns:repeat(3, 1fr);--e-con-grid-template-rows:repeat(3, 1fr);--grid-auto-flow:row;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-764 .elementor-element.elementor-element-f9e4f8b img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-68d17f8 img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-e08c7aa img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-714d2ac img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-8de77a8 img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-57872d7 img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-6846604 img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-b27752f img{height:80px;object-fit:cover;object-position:center center;}.elementor-764 .elementor-element.elementor-element-00f289a{--divider-border-style:solid;--divider-color:var( --e-global-color-primary );--divider-border-width:1px;}.elementor-764 .elementor-element.elementor-element-00f289a > .elementor-widget-container{padding:3em 0em 0em 0em;}.elementor-764 .elementor-element.elementor-element-00f289a .elementor-divider-separator{width:98%;margin:0 auto;margin-center:0;}.elementor-764 .elementor-element.elementor-element-00f289a .elementor-divider{text-align:center;padding-block-start:6px;padding-block-end:6px;}.elementor-764 .elementor-element.elementor-element-6f29d04{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:1em;--padding-bottom:2em;--padding-left:1.5em;--padding-right:1.5em;}.elementor-764 .elementor-element.elementor-element-6f29d04.e-con{--order:99999 /* order end hack */;}.elementor-764 .elementor-element.elementor-element-deb847c .elementor-heading-title{color:#FFFFFF;}.elementor-764 .elementor-element.elementor-element-49064e2 .elementor-heading-title{color:#FFFFFF;}.elementor-764 .elementor-element.elementor-element-2c17529 .elementor-heading-title{color:#FFFFFF;}@media(min-width:768px){.elementor-764 .elementor-element.elementor-element-43a9fef{--width:25%;}.elementor-764 .elementor-element.elementor-element-afdeb24{--width:25%;}.elementor-764 .elementor-element.elementor-element-107b017{--width:25%;}.elementor-764 .elementor-element.elementor-element-5eb3083{--width:25%;}}@media(max-width:1024px) and (min-width:768px){.elementor-764 .elementor-element.elementor-element-43a9fef{--width:33.33%;}.elementor-764 .elementor-element.elementor-element-afdeb24{--width:33.33%;}.elementor-764 .elementor-element.elementor-element-107b017{--width:33.33%;}.elementor-764 .elementor-element.elementor-element-5eb3083{--width:100%;}}@media(max-width:1024px){.elementor-764 .elementor-element.elementor-element-5df3904{--gap:40px 0px;--row-gap:40px;--column-gap:0px;--padding-top:3em;--padding-bottom:0em;--padding-left:1em;--padding-right:1em;}.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > a{font-size:17px;}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > a{font-size:17px;}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > a{font-size:17px;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > a{font-size:17px;}.elementor-764 .elementor-element.elementor-element-5eb3083{--e-con-grid-template-columns:repeat(3, 1fr);--grid-auto-flow:row;}.elementor-764 .elementor-element.elementor-element-f9e4f8b img{height:150px;}.elementor-764 .elementor-element.elementor-element-68d17f8 img{height:150px;}.elementor-764 .elementor-element.elementor-element-e08c7aa img{height:150px;}.elementor-764 .elementor-element.elementor-element-714d2ac img{height:150px;}.elementor-764 .elementor-element.elementor-element-8de77a8 img{height:150px;}.elementor-764 .elementor-element.elementor-element-57872d7 img{height:150px;}.elementor-764 .elementor-element.elementor-element-6846604 img{height:150px;}.elementor-764 .elementor-element.elementor-element-b27752f img{height:150px;}.elementor-764 .elementor-element.elementor-element-39a23cc img{height:150px;}.elementor-764 .elementor-element.elementor-element-00f289a > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0em 0em 0em 0em;}.elementor-764 .elementor-element.elementor-element-6f29d04.e-con{--order:99999 /* order end hack */;}}@media(max-width:767px){.elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-12c6a4a .elementor-icon-list-item > a{font-size:16px;}.elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-bf48cae .elementor-icon-list-item > a{font-size:16px;}.elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-c070169 .elementor-icon-list-item > a{font-size:16px;}.elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > .elementor-icon-list-text, .elementor-764 .elementor-element.elementor-element-4bc9efa .elementor-icon-list-item > a{font-size:16px;}.elementor-764 .elementor-element.elementor-element-5eb3083{--e-con-grid-template-columns:repeat(3, 1fr);--grid-auto-flow:row;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-764 .elementor-element.elementor-element-f9e4f8b img{height:80px;}.elementor-764 .elementor-element.elementor-element-68d17f8 img{height:80px;}.elementor-764 .elementor-element.elementor-element-e08c7aa img{height:80px;}.elementor-764 .elementor-element.elementor-element-714d2ac img{height:80px;}.elementor-764 .elementor-element.elementor-element-8de77a8 img{height:80px;}.elementor-764 .elementor-element.elementor-element-57872d7 img{height:80px;}.elementor-764 .elementor-element.elementor-element-6846604 img{height:80px;}.elementor-764 .elementor-element.elementor-element-b27752f img{height:80px;}.elementor-764 .elementor-element.elementor-element-39a23cc img{height:80px;}.elementor-764 .elementor-element.elementor-element-6f29d04{--justify-content:center;}}</style>        <div data-elementor-type="wp-post" data-elementor-id="764" class="elementor elementor-764" data-elementor-post-type="elementskit_template">
+                <div class="elementor-element elementor-element-5df3904 e-flex e-con-boxed e-con e-parent" data-id="5df3904" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+        <div class="elementor-element elementor-element-43a9fef e-con-full e-flex e-con e-child" data-id="43a9fef" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-030fdad elementor-widget elementor-widget-heading" data-id="030fdad" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">REACH US</h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-12c6a4a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="12c6a4a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-text">support@tangereapp.com</span>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-text">qual@tangereapp.com</span>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-text">+63920 959 0619</span>
+                                    </li>
+                        </ul>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-afdeb24 e-con-full e-flex e-con e-child" data-id="afdeb24" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-61dc684 elementor-widget elementor-widget-heading" data-id="61dc684" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">QUICK LINKS</h4>             </div>
+                </div>
+                <div class="elementor-element elementor-element-bf48cae elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bf48cae" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                            <a href="/about/">
 
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/livewire/livewire.min.js?id=df3a17f2"   data-csrf="8Z8AT9JT8GvYyphya3hEchMBiDJN5LDME5dfW3zk" data-update-uri="/livewire/update" data-navigate-once="true"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"1f9db69a91b34a5e930231131fd93039","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+                                            <span class="elementor-icon-list-text">About</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="/home/#contact">
+
+                                            <span class="elementor-icon-list-text">Contact</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="https://tangereapp.com/case-studies/">
+
+                                            <span class="elementor-icon-list-text">Case Studies</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-text">Company Profile</span>
+                                    </li>
+                        </ul>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-107b017 e-con-full e-flex e-con e-child" data-id="107b017" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-9b75538 elementor-widget elementor-widget-heading" data-id="9b75538" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h4 class="elementor-heading-title elementor-size-default">OUR SERVICES</h4>                </div>
+                </div>
+                <div class="elementor-element elementor-element-c070169 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c070169" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                            <a href="/quantitative-methodologies/">
+
+                                            <span class="elementor-icon-list-text">Quantitative Methodologies</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="/qualitative-methodologies/">
+
+                                            <span class="elementor-icon-list-text">Qualitative Methodologies</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="/premium-services/">
+
+                                            <span class="elementor-icon-list-text">Premium Services</span>
+                                            </a>
+                                    </li>
+                        </ul>
+                        </div>
+                </div>
+                <div class="elementor-element elementor-element-4bc9efa elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4bc9efa" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                                            <span class="elementor-icon-list-text">Market Research</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                                            <span class="elementor-icon-list-text">Brand Health</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                                            <span class="elementor-icon-list-text">Product and Advertising</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                                            <span class="elementor-icon-list-text">Qualitative Insights</span>
+                                            </a>
+                                    </li>
+                                <li class="elementor-icon-list-item">
+                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                                            <span class="elementor-icon-list-text">Advanced Analytics</span>
+                                            </a>
+                                    </li>
+                        </ul>
+                        </div>
+                </div>
+                </div>
+        <div class="elementor-element elementor-element-5eb3083 e-con-full e-grid e-con e-child" data-id="5eb3083" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-f9e4f8b elementor-widget elementor-widget-image" data-id="f9e4f8b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2024/12/1-1024x466.jpg" class="attachment-large size-large wp-image-3112" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/1-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/1-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/1-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/1-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/1.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-68d17f8 elementor-widget elementor-widget-image" data-id="68d17f8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2024/12/2-1024x466.jpg" class="attachment-large size-large wp-image-3113" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/2-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/2-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/2-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/2-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/2.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-e08c7aa elementor-widget elementor-widget-image" data-id="e08c7aa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1024x466.jpg" class="attachment-large size-large wp-image-3251" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                                                           </div>
+                </div>
+                <div class="elementor-element elementor-element-714d2ac elementor-widget elementor-widget-image" data-id="714d2ac" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1024x466.jpg" class="attachment-large size-large wp-image-3256" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                                                           </div>
+                </div>
+                <div class="elementor-element elementor-element-8de77a8 elementor-widget elementor-widget-image" data-id="8de77a8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1024x768.jpg" class="attachment-large size-large wp-image-3180" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1024x768.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-300x225.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-768x576.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1536x1152.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                                                          </div>
+                </div>
+                <div class="elementor-element elementor-element-57872d7 elementor-widget elementor-widget-image" data-id="57872d7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1.png" class="attachment-large size-large wp-image-4638" alt="" srcset="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1.png 574w, https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-49-1-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                                                          </div>
+                </div>
+                <div class="elementor-element elementor-element-6846604 elementor-widget elementor-widget-image" data-id="6846604" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1.png" class="attachment-large size-large wp-image-4639" alt="" srcset="https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1.png 574w, https://tangereapp.com/wp-content/uploads/2026/05/Rectangle-50-1-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                                                          </div>
+                </div>
+                <div class="elementor-element elementor-element-b27752f elementor-widget elementor-widget-image" data-id="b27752f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-scaled.jpg" class="attachment-large size-large wp-image-3178" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-scaled.jpg 2560w, https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />                                                         </div>
+                </div>
+                <div class="elementor-element elementor-element-39a23cc elementor-widget elementor-widget-image" data-id="39a23cc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1024x768.jpg" class="attachment-large size-large wp-image-3177" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1024x768.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-300x225.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-768x576.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1536x1152.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                                                            </div>
+                </div>
+                </div>
+                <div class="elementor-element elementor-element-00f289a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="00f289a" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+                <div class="elementor-widget-container">
+                            <div class="elementor-divider">
+            <span class="elementor-divider-separator">
+                        </span>
+        </div>
+                        </div>
+                </div>
+        <div class="elementor-element elementor-element-6f29d04 e-con-full e-flex e-con e-child" data-id="6f29d04" data-element_type="container" data-e-type="container">
+                <div class="elementor-element elementor-element-deb847c elementor-widget elementor-widget-heading" data-id="deb847c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <p class="elementor-heading-title elementor-size-default"><a href="https://tangereapp.com/data-processing-addendum/">Data Processing Addeddum</a></p>               </div>
+                </div>
+                <div class="elementor-element elementor-element-49064e2 elementor-widget elementor-widget-heading" data-id="49064e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <p class="elementor-heading-title elementor-size-default"><a href="https://tangereapp.com/privacy-policy/"> Privacy Policy</a></p>              </div>
+                </div>
+                <div class="elementor-element elementor-element-2c17529 elementor-widget elementor-widget-heading" data-id="2c17529" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <p class="elementor-heading-title elementor-size-default"><a href="https://www.tangereapp.com/terms-of-service/">Terms of Service  </a></p>             </div>
+                </div>
+                </div>
+                    </div>
+                </div>
+                </div>
+        </div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="woocommerce htmove-quick-view-modal" id="htmovequick-viewmodal" style="visibility: hidden;opacity: 0;display:none;"><div class="htmove-modal-dialog product"><div class="htmove-modal-content"><button type="button" class="htmove-modal-close">&times;</button><div class="htmove-modal-body"></div></div></div></div>     <div data-elementor-type="popup" data-elementor-id="2905" class="elementor elementor-2905 elementor-location-popup" data-elementor-settings="{&quot;open_selector&quot;:&quot;a[href=\&quot;#popup-menu-anchor\&quot;]&quot;,&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+            <div class="elementor-element elementor-element-c309096 e-flex e-con-boxed e-con e-parent" data-id="c309096" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+                <div class="elementor-element elementor-element-f85d498 elementor-widget elementor-widget-image" data-id="f85d498" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+                <div class="elementor-widget-container">
+                                                            <img width="181" height="58" src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" class="attachment-large size-large wp-image-741" alt="" />                                                          </div>
+                </div>
+                <div class="elementor-element elementor-element-511e788 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="511e788" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+                <div class="elementor-widget-container">
+                    <h2 class="elementor-heading-title elementor-size-default">Launching Soon</h2>              </div>
+                </div>
+                <div class="elementor-element elementor-element-90461de elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="90461de" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container">
+                                    <p>We’re currently creating on a new page. We’ll be launching soon.</p>                             </div>
+                </div>
+                    </div>
+                </div>
+                </div>
+                    <script>
+                const lazyloadRunObserver = () => {
+                    const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+                    const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+                        entries.forEach( ( entry ) => {
+                            if ( entry.isIntersecting ) {
+                                let lazyloadBackground = entry.target;
+                                if( lazyloadBackground ) {
+                                    lazyloadBackground.classList.add( 'e-lazyloaded' );
+                                }
+                                lazyloadBackgroundObserver.unobserve( entry.target );
+                            }
+                        });
+                    }, { rootMargin: '200px 0px 200px 0px' } );
+                    lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+                        lazyloadBackgroundObserver.observe( lazyloadBackground );
+                    } );
+                };
+                const events = [
+                    'DOMContentLoaded',
+                    'elementor/lazyload/observe',
+                ];
+                events.forEach( ( event ) => {
+                    document.addEventListener( event, lazyloadRunObserver );
+                } );
+            </script>
+            <link rel='stylesheet' id='widget-icon-list-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-post-info-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=4.0.4' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.9.6' media='all' />
+<script id="ekit-widget-scripts-js" src="https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.9.6"></script>
+<script id="wp-hooks-js" src="https://tangereapp.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://tangereapp.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://tangereapp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/tangereapp.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://tangereapp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6"></script>
+<script id="hello-theme-frontend-js" src="https://tangereapp.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9"></script>
+<script id="elementor-webpack-runtime-js" src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1"></script>
+<script id="elementor-frontend-modules-js" src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1"></script>
+<script id="jquery-ui-core-js" src="https://tangereapp.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/tangereapp.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/tangereapp.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"9ad53c2885","atomicFormsSendForm":"af7283f964"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":10,"title":"Tangere","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1"></script>
+<script id="swiper-js" src="https://tangereapp.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script>
+<script id="imagesloaded-js" src="https://tangereapp.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.0.4"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/tangereapp.com\/wp-admin\/admin-ajax.php","nonce":"b81d8df375","urls":{"assets":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/tangereapp.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.0.4"></script>
+<script id="pro-elements-handlers-js" src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.0.4"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https://tangereapp.com/wp-admin/admin-ajax.php","nonce":"3e1ed5c41d"};
+//# sourceURL=elementskit-elementor-js-extra
+</script>
+<script id="elementskit-elementor-js" src="https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.9.6"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://tangereapp.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://tangereapp.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
 </body>
-
-</html>
+</html><!-- WP Fastest Cache file was created in 1.311 seconds, on 28.05.2026 @ 8:00 am -->
